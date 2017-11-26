@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "732",
+        "deaths": "33",
+        "incidence rate": "47.06",
+        "mortality rate": "2.1",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1951",
+        "cases": "1801",
+        "deaths": "219",
+        "incidence rate": "114.14",
+        "mortality rate": "13.88",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1952",
+        "cases": "4342",
+        "deaths": "403",
+        "incidence rate": "267.16",
+        "mortality rate": "24.8",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1953",
+        "cases": "10235",
+        "deaths": "301",
+        "incidence rate": "615.3",
+        "mortality rate": "17.48",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1954",
+        "cases": "3768",
+        "deaths": "137",
+        "incidence rate": "218.77",
+        "mortality rate": "7.95",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1955",
+        "cases": "15974",
+        "deaths": "477",
+        "incidence rate": "888.23",
+        "mortality rate": "26.52",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1956",
+        "cases": "13113",
+        "deaths": "530",
+        "incidence rate": "685.13",
+        "mortality rate": "27.69",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1957",
+        "cases": "7053",
+        "deaths": "142",
+        "incidence rate": "346.63",
+        "mortality rate": "6.98",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1958",
+        "cases": "15887",
+        "deaths": "471",
+        "incidence rate": "486.87",
+        "mortality rate": "14.43",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1959",
+        "cases": "37250",
+        "deaths": "2026",
+        "incidence rate": "1470.85",
+        "mortality rate": "80",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1960",
+        "cases": "1377",
+        "deaths": "26",
+        "incidence rate": "53.31",
+        "mortality rate": "1.01",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1961",
+        "cases": "2790",
+        "deaths": "30",
+        "incidence rate": "121.22",
+        "mortality rate": "1.3",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1962",
+        "cases": "3149",
+        "deaths": "37",
+        "incidence rate": "151.15",
+        "mortality rate": "1.78",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1963",
+        "cases": "18042",
+        "deaths": "413",
+        "incidence rate": "870.02",
+        "mortality rate": "19.92",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1964",
+        "cases": "51456",
+        "deaths": "1888",
+        "incidence rate": "2397.67",
+        "mortality rate": "87.97",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1965",
+        "cases": "18299",
+        "deaths": "213",
+        "incidence rate": "813.42",
+        "mortality rate": "9.47",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1966",
+        "cases": "32700",
+        "deaths": "468",
+        "incidence rate": "1388.35",
+        "mortality rate": "19.87",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1967",
+        "cases": "3190",
+        "deaths": "44",
+        "incidence rate": "130.1",
+        "mortality rate": "1.79",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1968",
+        "cases": "4935",
+        "deaths": "48",
+        "incidence rate": "193.26",
+        "mortality rate": "1.88",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1969",
+        "cases": "4967",
+        "deaths": "67",
+        "incidence rate": "186.42",
+        "mortality rate": "2.51",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1970",
+        "cases": "2088",
+        "deaths": "19",
+        "incidence rate": "75.29",
+        "mortality rate": "0.69",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1971",
+        "cases": "7956",
+        "deaths": "33",
+        "incidence rate": "275.11",
+        "mortality rate": "1.14",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1972",
+        "cases": "15588",
+        "deaths": "251",
+        "incidence rate": "517.05",
+        "mortality rate": "8.33",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1973",
+        "cases": "14530",
+        "deaths": "268",
+        "incidence rate": "464.62",
+        "mortality rate": "8.57",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1974",
+        "cases": "8217",
+        "deaths": "123",
+        "incidence rate": "254.04",
+        "mortality rate": "3.8",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1975",
+        "cases": "5256",
+        "deaths": "128",
+        "incidence rate": "157.78",
+        "mortality rate": "3.84",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1976",
+        "cases": "7068",
+        "deaths": "138",
+        "incidence rate": "206.64",
+        "mortality rate": "4.03",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1977",
+        "cases": "27940",
+        "deaths": "311",
+        "incidence rate": "794.5",
+        "mortality rate": "8.84",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1978",
+        "cases": "5813",
+        "deaths": "72",
+        "incidence rate": "162.2",
+        "mortality rate": "2.01",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1979",
+        "cases": "7580",
+        "deaths": "116",
+        "incidence rate": "207.1",
+        "mortality rate": "3.17",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1980",
+        "cases": "6946",
+        "deaths": "194",
+        "incidence rate": "185.49",
+        "mortality rate": "5.18",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1981",
+        "cases": "12374",
+        "deaths": "88",
+        "incidence rate": "324.27",
+        "mortality rate": "2.31",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1982",
+        "cases": "3615",
+        "deaths": "54",
+        "incidence rate": "93.36",
+        "mortality rate": "1.39",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1983",
+        "cases": "3689",
+        "deaths": "27",
+        "incidence rate": "93.94",
+        "mortality rate": "0.69",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1984",
+        "cases": "12867",
+        "deaths": "76",
+        "incidence rate": "32.4033",
+        "mortality rate": "0.1914",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1985",
+        "cases": "3914",
+        "deaths": "55",
+        "incidence rate": "96.763",
+        "mortality rate": "1.36",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1986",
+        "cases": "347",
+        "deaths": "0",
+        "incidence rate": "8.465",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1987",
+        "cases": "115",
+        "deaths": "1",
+        "incidence rate": "2.771",
+        "mortality rate": "0.024",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1988",
+        "cases": "676",
+        "deaths": "2",
+        "incidence rate": "15.989",
+        "mortality rate": "0.047",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1989",
+        "cases": "1966",
+        "deaths": "20",
+        "incidence rate": "46.323",
+        "mortality rate": "0.471",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1990",
+        "cases": "123",
+        "deaths": "1",
+        "incidence rate": "2.855",
+        "mortality rate": "0.023",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1991",
+        "cases": "175",
+        "deaths": "2",
+        "incidence rate": "3.872",
+        "mortality rate": "0.0443",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1992",
+        "cases": "1872",
+        "deaths": "2",
+        "incidence rate": "40.774",
+        "mortality rate": "0.0436",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1993",
+        "cases": "3729",
+        "deaths": "20",
+        "incidence rate": "83.857",
+        "mortality rate": "0.4498",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1994",
+        "cases": "128",
+        "deaths": "0",
+        "incidence rate": "2.853",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1995",
+        "cases": "246",
+        "deaths": "0",
+        "incidence rate": "5.3968",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1996",
+        "cases": "404",
+        "deaths": "2",
+        "incidence rate": "8.8038",
+        "mortality rate": "0.0436",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1997",
+        "cases": "3471",
+        "deaths": "50",
+        "incidence rate": "74.2268",
+        "mortality rate": "1.0692",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1998",
+        "cases": "126",
+        "deaths": "1",
+        "incidence rate": "2.5034",
+        "mortality rate": "0.0199",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "1999",
+        "cases": "218",
+        "deaths": "1",
+        "incidence rate": "4.2721",
+        "mortality rate": "0.0196",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2000",
+        "cases": "831",
+        "deaths": "0",
+        "incidence rate": "16.2944",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2001",
+        "cases": "2757",
+        "deaths": "14",
+        "incidence rate": "52.4943",
+        "mortality rate": "0.2666",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2002",
+        "cases": "558",
+        "deaths": "0",
+        "incidence rate": "9.4736",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2003",
+        "cases": "411",
+        "deaths": "1",
+        "incidence rate": "7.857",
+        "mortality rate": "0.0191",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2004",
+        "cases": "500",
+        "deaths": "0",
+        "incidence rate": "9.2668",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2005",
+        "cases": "1754",
+        "deaths": "1",
+        "incidence rate": "32.6086",
+        "mortality rate": "0.0186",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2006",
+        "cases": "187",
+        "deaths": "0",
+        "incidence rate": "3.4438",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2007",
+        "cases": "84",
+        "deaths": "0",
+        "incidence rate": "1.5329",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2008",
+        "cases": "154",
+        "deaths": "0",
+        "incidence rate": "2.7899",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2009",
+        "cases": "379",
+        "deaths": "0",
+        "incidence rate": "6.8374",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2010",
+        "cases": "302",
+        "deaths": "1",
+        "incidence rate": "5.419",
+        "mortality rate": "0.0179",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2011",
+        "cases": "301",
+        "deaths": "0",
+        "incidence rate": "5.3495",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2012",
+        "cases": "66",
+        "deaths": "0",
+        "incidence rate": "1.1616",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2013",
+        "cases": "624",
+        "deaths": "2",
+        "incidence rate": "10.8868",
+        "mortality rate": "0.0349",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    },
+    {
+        "year": "2014",
+        "cases": "710",
+        "deaths": "2",
+        "incidence rate": "12.2882",
+        "mortality rate": "0.0346",
+        "name": "麻疹",
+        "region": "青海",
+        "id": "63000000"
+    }
+]

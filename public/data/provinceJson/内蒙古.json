@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "6494",
+        "deaths": "505",
+        "incidence rate": "102.43",
+        "mortality rate": "7.97",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1951",
+        "cases": "19127",
+        "deaths": "1315",
+        "incidence rate": "284.06",
+        "mortality rate": "19.53",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1952",
+        "cases": "23749",
+        "deaths": "1901",
+        "incidence rate": "338.62",
+        "mortality rate": "27.1",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1953",
+        "cases": "74302",
+        "deaths": "3051",
+        "incidence rate": "1007.96",
+        "mortality rate": "41.39",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1954",
+        "cases": "28553",
+        "deaths": "1330",
+        "incidence rate": "366.09",
+        "mortality rate": "17.05",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1955",
+        "cases": "43368",
+        "deaths": "1192",
+        "incidence rate": "527.43",
+        "mortality rate": "14.5",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1956",
+        "cases": "24559",
+        "deaths": "420",
+        "incidence rate": "282.35",
+        "mortality rate": "4.83",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1957",
+        "cases": "77480",
+        "deaths": "1598",
+        "incidence rate": "845.57",
+        "mortality rate": "17.44",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1958",
+        "cases": "21539",
+        "deaths": "414",
+        "incidence rate": "224.12",
+        "mortality rate": "4.31",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1959",
+        "cases": "80828",
+        "deaths": "1732",
+        "incidence rate": "789.1",
+        "mortality rate": "16.91",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1960",
+        "cases": "24395",
+        "deaths": "222",
+        "incidence rate": "216.5",
+        "mortality rate": "1.97",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1961",
+        "cases": "48479",
+        "deaths": "765",
+        "incidence rate": "411.64",
+        "mortality rate": "6.5",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1962",
+        "cases": "34948",
+        "deaths": "294",
+        "incidence rate": "299.35",
+        "mortality rate": "2.52",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1963",
+        "cases": "57932",
+        "deaths": "799",
+        "incidence rate": "485.36",
+        "mortality rate": "6.69",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1964",
+        "cases": "85569",
+        "deaths": "1131",
+        "incidence rate": "693.12",
+        "mortality rate": "9.16",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1965",
+        "cases": "98587",
+        "deaths": "800",
+        "incidence rate": "773.2",
+        "mortality rate": "6.27",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1966",
+        "cases": "55891",
+        "deaths": "414",
+        "incidence rate": "425.67",
+        "mortality rate": "3.15",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1967",
+        "cases": "14252",
+        "deaths": "93",
+        "incidence rate": "105.55",
+        "mortality rate": "0.69",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1968",
+        "cases": "1510",
+        "deaths": "19",
+        "incidence rate": "10.67",
+        "mortality rate": "0.13",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1969",
+        "cases": "3395",
+        "deaths": "5",
+        "incidence rate": "46.11",
+        "mortality rate": "0.07",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1970",
+        "cases": "15620",
+        "deaths": "134",
+        "incidence rate": "211.3",
+        "mortality rate": "1.81",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1971",
+        "cases": "3411",
+        "deaths": "23",
+        "incidence rate": "44.84",
+        "mortality rate": "0.3",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1972",
+        "cases": "22450",
+        "deaths": "100",
+        "incidence rate": "283.91",
+        "mortality rate": "1.26",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1973",
+        "cases": "31022",
+        "deaths": "197",
+        "incidence rate": "382.16",
+        "mortality rate": "2.43",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1974",
+        "cases": "5486",
+        "deaths": "18",
+        "incidence rate": "66.09",
+        "mortality rate": "0.22",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1975",
+        "cases": "6510",
+        "deaths": "37",
+        "incidence rate": "76.95",
+        "mortality rate": "0.44",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1976",
+        "cases": "23719",
+        "deaths": "144",
+        "incidence rate": "275.91",
+        "mortality rate": "1.68",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1977",
+        "cases": "27289",
+        "deaths": "91",
+        "incidence rate": "312.66",
+        "mortality rate": "1.04",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1978",
+        "cases": "10487",
+        "deaths": "27",
+        "incidence rate": "118.54",
+        "mortality rate": "0.31",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1979",
+        "cases": "19637",
+        "deaths": "71",
+        "incidence rate": "111.64",
+        "mortality rate": "0.4",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1980",
+        "cases": "13565",
+        "deaths": "60",
+        "incidence rate": "72.78",
+        "mortality rate": "0.32",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1981",
+        "cases": "10513",
+        "deaths": "25",
+        "incidence rate": "55.63",
+        "mortality rate": "0.13",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1982",
+        "cases": "11777",
+        "deaths": "37",
+        "incidence rate": "61.33",
+        "mortality rate": "0.19",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1983",
+        "cases": "6049",
+        "deaths": "20",
+        "incidence rate": "31.05",
+        "mortality rate": "0.1",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1984",
+        "cases": "2275",
+        "deaths": "7",
+        "incidence rate": "11.5459",
+        "mortality rate": "0.0355",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1985",
+        "cases": "893",
+        "deaths": "2",
+        "incidence rate": "4.474",
+        "mortality rate": "0.01",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1986",
+        "cases": "814",
+        "deaths": "2",
+        "incidence rate": "4.084",
+        "mortality rate": "0.01",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1987",
+        "cases": "1857",
+        "deaths": "6",
+        "incidence rate": "9.097",
+        "mortality rate": "0.029",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1988",
+        "cases": "1355",
+        "deaths": "2",
+        "incidence rate": "6.552",
+        "mortality rate": "0.01",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1989",
+        "cases": "4054",
+        "deaths": "3",
+        "incidence rate": "19.325",
+        "mortality rate": "0.014",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1990",
+        "cases": "1305",
+        "deaths": "0",
+        "incidence rate": "6.135",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1991",
+        "cases": "660",
+        "deaths": "0",
+        "incidence rate": "3.038",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1992",
+        "cases": "2339",
+        "deaths": "2",
+        "incidence rate": "10.549",
+        "mortality rate": "0.009",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1993",
+        "cases": "2691",
+        "deaths": "2",
+        "incidence rate": "12.297",
+        "mortality rate": "0.0091",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1994",
+        "cases": "574",
+        "deaths": "1",
+        "incidence rate": "2.6",
+        "mortality rate": "0.0045",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1995",
+        "cases": "1203",
+        "deaths": "0",
+        "incidence rate": "5.378",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1996",
+        "cases": "1175",
+        "deaths": "2",
+        "incidence rate": "5.2286",
+        "mortality rate": "0.0089",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1997",
+        "cases": "1161",
+        "deaths": "0",
+        "incidence rate": "5.0914",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1998",
+        "cases": "1116",
+        "deaths": "0",
+        "incidence rate": "4.7365",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "1999",
+        "cases": "255",
+        "deaths": "0",
+        "incidence rate": "1.0785",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2000",
+        "cases": "564",
+        "deaths": "0",
+        "incidence rate": "2.3878",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2001",
+        "cases": "1032",
+        "deaths": "0",
+        "incidence rate": "4.3122",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2002",
+        "cases": "785",
+        "deaths": "0",
+        "incidence rate": "3.1458",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2003",
+        "cases": "787",
+        "deaths": "0",
+        "incidence rate": "3.3809",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2004",
+        "cases": "1217",
+        "deaths": "0",
+        "incidence rate": "5.1041",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2005",
+        "cases": "3556",
+        "deaths": "0",
+        "incidence rate": "14.9724",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2006",
+        "cases": "2512",
+        "deaths": "1",
+        "incidence rate": "10.5281",
+        "mortality rate": "0.0042",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2007",
+        "cases": "2041",
+        "deaths": "1",
+        "incidence rate": "8.5148",
+        "mortality rate": "0.0042",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2008",
+        "cases": "2622",
+        "deaths": "0",
+        "incidence rate": "10.9023",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2009",
+        "cases": "1456",
+        "deaths": "0",
+        "incidence rate": "6.0321",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2010",
+        "cases": "686",
+        "deaths": "0",
+        "incidence rate": "2.8323",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2011",
+        "cases": "109",
+        "deaths": "0",
+        "incidence rate": "0.4412",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2012",
+        "cases": "35",
+        "deaths": "0",
+        "incidence rate": "0.141",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2013",
+        "cases": "590",
+        "deaths": "0",
+        "incidence rate": "2.3696",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    },
+    {
+        "year": "2014",
+        "cases": "3687",
+        "deaths": "1",
+        "incidence rate": "14.7621",
+        "mortality rate": "0.004",
+        "name": "麻疹",
+        "region": "内蒙古",
+        "id": "15000000"
+    }
+]

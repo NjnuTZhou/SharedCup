@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1951",
+        "cases": "16652",
+        "deaths": "1149",
+        "incidence rate": "101.32",
+        "mortality rate": "6.99",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1952",
+        "cases": "52021",
+        "deaths": "3756",
+        "incidence rate": "314.59",
+        "mortality rate": "22.71",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1953",
+        "cases": "96981",
+        "deaths": "3595",
+        "incidence rate": "577.21",
+        "mortality rate": "21.4",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1954",
+        "cases": "73868",
+        "deaths": "2371",
+        "incidence rate": "424.4",
+        "mortality rate": "13.62",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1955",
+        "cases": "76711",
+        "deaths": "1708",
+        "incidence rate": "429.32",
+        "mortality rate": "9.56",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1956",
+        "cases": "179073",
+        "deaths": "4656",
+        "incidence rate": "981.91",
+        "mortality rate": "25.53",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1957",
+        "cases": "223781",
+        "deaths": "7090",
+        "incidence rate": "1197.2",
+        "mortality rate": "37.93",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1958",
+        "cases": "57714",
+        "deaths": "1105",
+        "incidence rate": "302.86",
+        "mortality rate": "5.8",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1959",
+        "cases": "223962",
+        "deaths": "8258",
+        "incidence rate": "1170.65",
+        "mortality rate": "43.16",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1960",
+        "cases": "21925",
+        "deaths": "395",
+        "incidence rate": "115.2",
+        "mortality rate": "2.08",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1961",
+        "cases": "38366",
+        "deaths": "460",
+        "incidence rate": "202.22",
+        "mortality rate": "2.42",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1962",
+        "cases": "128031",
+        "deaths": "2656",
+        "incidence rate": "662.76",
+        "mortality rate": "13.75",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1963",
+        "cases": "303284",
+        "deaths": "7420",
+        "incidence rate": "1522.23",
+        "mortality rate": "37.24",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1964",
+        "cases": "308732",
+        "deaths": "5975",
+        "incidence rate": "1502.55",
+        "mortality rate": "29.08",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1965",
+        "cases": "384820",
+        "deaths": "6778",
+        "incidence rate": "1811.43",
+        "mortality rate": "31.91",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1966",
+        "cases": "370235",
+        "deaths": "5775",
+        "incidence rate": "1685.87",
+        "mortality rate": "26.3",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1967",
+        "cases": "275506",
+        "deaths": "2883",
+        "incidence rate": "1220.27",
+        "mortality rate": "12.77",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1968",
+        "cases": "16583",
+        "deaths": "188",
+        "incidence rate": "71.32",
+        "mortality rate": "0.81",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1969",
+        "cases": "105497",
+        "deaths": "968",
+        "incidence rate": "440.51",
+        "mortality rate": "4.04",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1970",
+        "cases": "144795",
+        "deaths": "1133",
+        "incidence rate": "587.15",
+        "mortality rate": "4.59",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1971",
+        "cases": "122732",
+        "deaths": "834",
+        "incidence rate": "481.11",
+        "mortality rate": "3.27",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1972",
+        "cases": "267639",
+        "deaths": "1909",
+        "incidence rate": "1018.46",
+        "mortality rate": "7.26",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1973",
+        "cases": "287780",
+        "deaths": "2281",
+        "incidence rate": "1063.89",
+        "mortality rate": "8.43",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1974",
+        "cases": "218160",
+        "deaths": "1598",
+        "incidence rate": "783.92",
+        "mortality rate": "5.74",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1975",
+        "cases": "351786",
+        "deaths": "2136",
+        "incidence rate": "1233.63",
+        "mortality rate": "7.49",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1976",
+        "cases": "203211",
+        "deaths": "1429",
+        "incidence rate": "696.4",
+        "mortality rate": "4.9",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1977",
+        "cases": "108652",
+        "deaths": "696",
+        "incidence rate": "363.61",
+        "mortality rate": "2.33",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1978",
+        "cases": "201154",
+        "deaths": "1319",
+        "incidence rate": "657.79",
+        "mortality rate": "4.31",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1979",
+        "cases": "314174",
+        "deaths": "2129",
+        "incidence rate": "1009.19",
+        "mortality rate": "6.83",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1980",
+        "cases": "98628",
+        "deaths": "835",
+        "incidence rate": "312.65",
+        "mortality rate": "2.65",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1981",
+        "cases": "36640",
+        "deaths": "252",
+        "incidence rate": "114.56",
+        "mortality rate": "0.79",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1982",
+        "cases": "48115",
+        "deaths": "329",
+        "incidence rate": "147.91",
+        "mortality rate": "1.01",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1983",
+        "cases": "90145",
+        "deaths": "953",
+        "incidence rate": "273.08",
+        "mortality rate": "2.89",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1984",
+        "cases": "88477",
+        "deaths": "412",
+        "incidence rate": "264.8488",
+        "mortality rate": "1.2333",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1985",
+        "cases": "54895",
+        "deaths": "262",
+        "incidence rate": "162.208",
+        "mortality rate": "0.774",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1986",
+        "cases": "24025",
+        "deaths": "136",
+        "incidence rate": "70.025",
+        "mortality rate": "0.396",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1987",
+        "cases": "11535",
+        "deaths": "57",
+        "incidence rate": "33.105",
+        "mortality rate": "0.164",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1988",
+        "cases": "4867",
+        "deaths": "20",
+        "incidence rate": "13.696",
+        "mortality rate": "0.056",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1989",
+        "cases": "5744",
+        "deaths": "30",
+        "incidence rate": "15.901",
+        "mortality rate": "0.083",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1990",
+        "cases": "3232",
+        "deaths": "9",
+        "incidence rate": "8.805",
+        "mortality rate": "0.025",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1991",
+        "cases": "5104",
+        "deaths": "10",
+        "incidence rate": "13.612",
+        "mortality rate": "0.0267",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1992",
+        "cases": "3948",
+        "deaths": "15",
+        "incidence rate": "10.364",
+        "mortality rate": "0.0394",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1993",
+        "cases": "6866",
+        "deaths": "22",
+        "incidence rate": "18.142",
+        "mortality rate": "0.0581",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1994",
+        "cases": "15793",
+        "deaths": "73",
+        "incidence rate": "41.347",
+        "mortality rate": "0.1911",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1995",
+        "cases": "4402",
+        "deaths": "11",
+        "incidence rate": "11.3677",
+        "mortality rate": "0.0284",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1996",
+        "cases": "8021",
+        "deaths": "19",
+        "incidence rate": "20.6092",
+        "mortality rate": "0.0488",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1997",
+        "cases": "7497",
+        "deaths": "42",
+        "incidence rate": "18.943",
+        "mortality rate": "0.1061",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1998",
+        "cases": "3476",
+        "deaths": "8",
+        "incidence rate": "8.3666",
+        "mortality rate": "0.0193",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "1999",
+        "cases": "3208",
+        "deaths": "5",
+        "incidence rate": "7.6488",
+        "mortality rate": "0.0119",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2000",
+        "cases": "6074",
+        "deaths": "23",
+        "incidence rate": "14.4884",
+        "mortality rate": "0.0549",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2001",
+        "cases": "4173",
+        "deaths": "5",
+        "incidence rate": "9.5952",
+        "mortality rate": "0.0115",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2002",
+        "cases": "2657",
+        "deaths": "7",
+        "incidence rate": "5.5866",
+        "mortality rate": "0.0147",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2003",
+        "cases": "3795",
+        "deaths": "4",
+        "incidence rate": "8.8525",
+        "mortality rate": "0.0093",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2004",
+        "cases": "4440",
+        "deaths": "2",
+        "incidence rate": "10.1967",
+        "mortality rate": "0.0046",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2005",
+        "cases": "4847",
+        "deaths": "1",
+        "incidence rate": "10.9792",
+        "mortality rate": "0.0023",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2006",
+        "cases": "6441",
+        "deaths": "1",
+        "incidence rate": "14.4744",
+        "mortality rate": "0.0022",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2007",
+        "cases": "6724",
+        "deaths": "3",
+        "incidence rate": "14.9989",
+        "mortality rate": "0.0067",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2008",
+        "cases": "3890",
+        "deaths": "1",
+        "incidence rate": "8.6176",
+        "mortality rate": "0.0022",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2009",
+        "cases": "659",
+        "deaths": "0",
+        "incidence rate": "1.4506",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2010",
+        "cases": "100",
+        "deaths": "0",
+        "incidence rate": "0.2188",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2011",
+        "cases": "117",
+        "deaths": "0",
+        "incidence rate": "0.2545",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2012",
+        "cases": "979",
+        "deaths": "2",
+        "incidence rate": "2.114",
+        "mortality rate": "0.0043",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2013",
+        "cases": "1416",
+        "deaths": "2",
+        "incidence rate": "3.0393",
+        "mortality rate": "0.0043",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    },
+    {
+        "year": "2014",
+        "cases": "435",
+        "deaths": "0",
+        "incidence rate": "0.9282",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "云南",
+        "id": "53000000"
+    }
+]

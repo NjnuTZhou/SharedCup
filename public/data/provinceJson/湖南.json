@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "6192",
+        "deaths": "490",
+        "incidence rate": "20.14",
+        "mortality rate": "1.59",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1951",
+        "cases": "87185",
+        "deaths": "4710",
+        "incidence rate": "278.32",
+        "mortality rate": "15.03",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1952",
+        "cases": "40469",
+        "deaths": "1541",
+        "incidence rate": "125.25",
+        "mortality rate": "4.77",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1953",
+        "cases": "93845",
+        "deaths": "2533",
+        "incidence rate": "286.03",
+        "mortality rate": "7.72",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1954",
+        "cases": "180287",
+        "deaths": "4764",
+        "incidence rate": "536.54",
+        "mortality rate": "14.18",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1955",
+        "cases": "350937",
+        "deaths": "9556",
+        "incidence rate": "1016.85",
+        "mortality rate": "27.69",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1956",
+        "cases": "378986",
+        "deaths": "8699",
+        "incidence rate": "1085.88",
+        "mortality rate": "24.92",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1957",
+        "cases": "412208",
+        "deaths": "8266",
+        "incidence rate": "1159.58",
+        "mortality rate": "23.25",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1958",
+        "cases": "424982",
+        "deaths": "15641",
+        "incidence rate": "1168.35",
+        "mortality rate": "43",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1959",
+        "cases": "793197",
+        "deaths": "39949",
+        "incidence rate": "2154.06",
+        "mortality rate": "108.49",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1960",
+        "cases": "28064",
+        "deaths": "804",
+        "incidence rate": "77.3",
+        "mortality rate": "2.21",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1961",
+        "cases": "60036",
+        "deaths": "1234",
+        "incidence rate": "169.66",
+        "mortality rate": "3.49",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1962",
+        "cases": "167782",
+        "deaths": "2581",
+        "incidence rate": "472.08",
+        "mortality rate": "7.26",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1963",
+        "cases": "459825",
+        "deaths": "7217",
+        "incidence rate": "1257.13",
+        "mortality rate": "19.73",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1964",
+        "cases": "504698",
+        "deaths": "7597",
+        "incidence rate": "1357.92",
+        "mortality rate": "20.44",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1965",
+        "cases": "756423",
+        "deaths": "7936",
+        "incidence rate": "2000.44",
+        "mortality rate": "20.99",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1966",
+        "cases": "464861",
+        "deaths": "4008",
+        "incidence rate": "1183.76",
+        "mortality rate": "10.21",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1967",
+        "cases": "141838",
+        "deaths": "1116",
+        "incidence rate": "348.83",
+        "mortality rate": "2.74",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1968",
+        "cases": "113641",
+        "deaths": "577",
+        "incidence rate": "271.83",
+        "mortality rate": "1.38",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1969",
+        "cases": "75832",
+        "deaths": "700",
+        "incidence rate": "176.42",
+        "mortality rate": "1.63",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1970",
+        "cases": "145781",
+        "deaths": "1111",
+        "incidence rate": "330.43",
+        "mortality rate": "2.52",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1971",
+        "cases": "629167",
+        "deaths": "3956",
+        "incidence rate": "1388.3",
+        "mortality rate": "8.73",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1972",
+        "cases": "280182",
+        "deaths": "1889",
+        "incidence rate": "602.62",
+        "mortality rate": "4.06",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1973",
+        "cases": "223651",
+        "deaths": "1162",
+        "incidence rate": "470.33",
+        "mortality rate": "2.44",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1974",
+        "cases": "334229",
+        "deaths": "2104",
+        "incidence rate": "688.38",
+        "mortality rate": "4.33",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1975",
+        "cases": "266651",
+        "deaths": "1524",
+        "incidence rate": "539.11",
+        "mortality rate": "3.08",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1976",
+        "cases": "73331",
+        "deaths": "515",
+        "incidence rate": "145.96",
+        "mortality rate": "1.03",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1977",
+        "cases": "35326",
+        "deaths": "194",
+        "incidence rate": "69.48",
+        "mortality rate": "0.38",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1978",
+        "cases": "79111",
+        "deaths": "291",
+        "incidence rate": "153.95",
+        "mortality rate": "0.57",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1979",
+        "cases": "104131",
+        "deaths": "395",
+        "incidence rate": "200.46",
+        "mortality rate": "0.76",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1980",
+        "cases": "52804",
+        "deaths": "266",
+        "incidence rate": "100.54",
+        "mortality rate": "0.5",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1981",
+        "cases": "68076",
+        "deaths": "196",
+        "incidence rate": "127.95",
+        "mortality rate": "0.37",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1982",
+        "cases": "73278",
+        "deaths": "316",
+        "incidence rate": "135.58",
+        "mortality rate": "0.59",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1983",
+        "cases": "49081",
+        "deaths": "299",
+        "incidence rate": "89.55",
+        "mortality rate": "0.55",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1984",
+        "cases": "31896",
+        "deaths": "123",
+        "incidence rate": "57.6221",
+        "mortality rate": "0.2222",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1985",
+        "cases": "17727",
+        "deaths": "36",
+        "incidence rate": "31.701",
+        "mortality rate": "0.064",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1986",
+        "cases": "14397",
+        "deaths": "70",
+        "incidence rate": "25.44",
+        "mortality rate": "0.124",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1987",
+        "cases": "6309",
+        "deaths": "16",
+        "incidence rate": "10.993",
+        "mortality rate": "0.028",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1988",
+        "cases": "2947",
+        "deaths": "10",
+        "incidence rate": "5.086",
+        "mortality rate": "0.017",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1989",
+        "cases": "1808",
+        "deaths": "4",
+        "incidence rate": "3.031",
+        "mortality rate": "0.007",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1990",
+        "cases": "3193",
+        "deaths": "4",
+        "incidence rate": "5.266",
+        "mortality rate": "0.007",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1991",
+        "cases": "5860",
+        "deaths": "17",
+        "incidence rate": "9.515",
+        "mortality rate": "0.0276",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1992",
+        "cases": "8315",
+        "deaths": "24",
+        "incidence rate": "13.277",
+        "mortality rate": "0.0383",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1993",
+        "cases": "2406",
+        "deaths": "2",
+        "incidence rate": "3.863",
+        "mortality rate": "0.0032",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1994",
+        "cases": "2115",
+        "deaths": "3",
+        "incidence rate": "3.369",
+        "mortality rate": "0.0048",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1995",
+        "cases": "3727",
+        "deaths": "3",
+        "incidence rate": "5.8561",
+        "mortality rate": "0.0047",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1996",
+        "cases": "2747",
+        "deaths": "2",
+        "incidence rate": "4.304",
+        "mortality rate": "0.0031",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1997",
+        "cases": "3037",
+        "deaths": "1",
+        "incidence rate": "4.7005",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1998",
+        "cases": "2046",
+        "deaths": "0",
+        "incidence rate": "3.1414",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "1999",
+        "cases": "1954",
+        "deaths": "0",
+        "incidence rate": "2.9897",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2000",
+        "cases": "2613",
+        "deaths": "0",
+        "incidence rate": "4.0004",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2001",
+        "cases": "5380",
+        "deaths": "2",
+        "incidence rate": "8.3158",
+        "mortality rate": "0.0031",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2002",
+        "cases": "2687",
+        "deaths": "1",
+        "incidence rate": "3.8767",
+        "mortality rate": "0.0014",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2003",
+        "cases": "3950",
+        "deaths": "1",
+        "incidence rate": "5.9725",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2004",
+        "cases": "5165",
+        "deaths": "4",
+        "incidence rate": "7.7329",
+        "mortality rate": "0.006",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2005",
+        "cases": "4515",
+        "deaths": "0",
+        "incidence rate": "7.174",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2006",
+        "cases": "7583",
+        "deaths": "6",
+        "incidence rate": "11.987",
+        "mortality rate": "0.0095",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2007",
+        "cases": "4669",
+        "deaths": "0",
+        "incidence rate": "7.362",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2008",
+        "cases": "10218",
+        "deaths": "12",
+        "incidence rate": "16.0787",
+        "mortality rate": "0.0189",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2009",
+        "cases": "3789",
+        "deaths": "8",
+        "incidence rate": "5.9344",
+        "mortality rate": "0.0125",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2010",
+        "cases": "220",
+        "deaths": "0",
+        "incidence rate": "0.3434",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2011",
+        "cases": "99",
+        "deaths": "0",
+        "incidence rate": "0.1507",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2012",
+        "cases": "137",
+        "deaths": "3",
+        "incidence rate": "0.2077",
+        "mortality rate": "0.0045",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2013",
+        "cases": "4177",
+        "deaths": "6",
+        "incidence rate": "6.2917",
+        "mortality rate": "0.009",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    },
+    {
+        "year": "2014",
+        "cases": "1344",
+        "deaths": "3",
+        "incidence rate": "2.0088",
+        "mortality rate": "0.0045",
+        "name": "麻疹",
+        "region": "湖南",
+        "id": "43000000"
+    }
+]

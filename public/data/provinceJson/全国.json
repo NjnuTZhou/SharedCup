@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "132167",
+        "deaths": "8534",
+        "incidence rate": "44.08",
+        "mortality rate": "2.85",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1951",
+        "cases": "866686",
+        "deaths": "44781",
+        "incidence rate": "178.48",
+        "mortality rate": "9.22",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1952",
+        "cases": "1040207",
+        "deaths": "41586",
+        "incidence rate": "189.44",
+        "mortality rate": "7.57",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1953",
+        "cases": "1806834",
+        "deaths": "50640",
+        "incidence rate": "320.16",
+        "mortality rate": "8.97",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1954",
+        "cases": "2071466",
+        "deaths": "36569",
+        "incidence rate": "355.81",
+        "mortality rate": "6.28",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1955",
+        "cases": "4186192",
+        "deaths": "73097",
+        "incidence rate": "701.23",
+        "mortality rate": "12.24",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1956",
+        "cases": "3943035",
+        "deaths": "64620",
+        "incidence rate": "642.89",
+        "mortality rate": "10.54",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1957",
+        "cases": "5347598",
+        "deaths": "87915",
+        "incidence rate": "851.13",
+        "mortality rate": "13.99",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1958",
+        "cases": "3585248",
+        "deaths": "69219",
+        "incidence rate": "555.3",
+        "mortality rate": "10.72",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1959",
+        "cases": "9444659",
+        "deaths": "262257",
+        "incidence rate": "1432.41",
+        "mortality rate": "39.77",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1960",
+        "cases": "1037660",
+        "deaths": "10508",
+        "incidence rate": "157.51",
+        "mortality rate": "1.6",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1961",
+        "cases": "2445531",
+        "deaths": "21277",
+        "incidence rate": "372.7",
+        "mortality rate": "3.24",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1962",
+        "cases": "3816061",
+        "deaths": "37878",
+        "incidence rate": "573.28",
+        "mortality rate": "5.69",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1963",
+        "cases": "5737746",
+        "deaths": "62123",
+        "incidence rate": "842.07",
+        "mortality rate": "9.12",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1964",
+        "cases": "6726974",
+        "deaths": "72238",
+        "incidence rate": "967.47",
+        "mortality rate": "10.39",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1965",
+        "cases": "9021394",
+        "deaths": "65494",
+        "incidence rate": "1265.74",
+        "mortality rate": "9.19",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1966",
+        "cases": "6285464",
+        "deaths": "42583",
+        "incidence rate": "855.41",
+        "mortality rate": "5.8",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1967",
+        "cases": "2235628",
+        "deaths": "13278",
+        "incidence rate": "296.63",
+        "mortality rate": "1.76",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1968",
+        "cases": "1616851",
+        "deaths": "9056",
+        "incidence rate": "208.95",
+        "mortality rate": "1.17",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1969",
+        "cases": "2376184",
+        "deaths": "11191",
+        "incidence rate": "301.18",
+        "mortality rate": "1.42",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1970",
+        "cases": "3668620",
+        "deaths": "14928",
+        "incidence rate": "450.47",
+        "mortality rate": "1.83",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1971",
+        "cases": "3969063",
+        "deaths": "18207",
+        "incidence rate": "474.57",
+        "mortality rate": "2.18",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1972",
+        "cases": "4451952",
+        "deaths": "23172",
+        "incidence rate": "526.51",
+        "mortality rate": "2.74",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1973",
+        "cases": "4670551",
+        "deaths": "22226",
+        "incidence rate": "532.05",
+        "mortality rate": "2.53",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1974",
+        "cases": "3276531",
+        "deaths": "19667",
+        "incidence rate": "364.75",
+        "mortality rate": "2.19",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1975",
+        "cases": "2553084",
+        "deaths": "15069",
+        "incidence rate": "279.33",
+        "mortality rate": "1.65",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1976",
+        "cases": "2558995",
+        "deaths": "11229",
+        "incidence rate": "275.96",
+        "mortality rate": "1.21",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1977",
+        "cases": "2640161",
+        "deaths": "11679",
+        "incidence rate": "280.99",
+        "mortality rate": "1.24",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1978",
+        "cases": "2377776",
+        "deaths": "9573",
+        "incidence rate": "249.76",
+        "mortality rate": "1.01",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1979",
+        "cases": "1717031",
+        "deaths": "7660",
+        "incidence rate": "177.74",
+        "mortality rate": "0.79",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1980",
+        "cases": "1122285",
+        "deaths": "4910",
+        "incidence rate": "114.88",
+        "mortality rate": "0.5",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1981",
+        "cases": "1010755",
+        "deaths": "4205",
+        "incidence rate": "101.46",
+        "mortality rate": "0.42",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1982",
+        "cases": "892870",
+        "deaths": "5141",
+        "incidence rate": "88.96",
+        "mortality rate": "0.51",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1983",
+        "cases": "781475",
+        "deaths": "4021",
+        "incidence rate": "76.92",
+        "mortality rate": "0.4",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1984",
+        "cases": "619709",
+        "deaths": "2906",
+        "incidence rate": "60.4233",
+        "mortality rate": "0.2833",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1985",
+        "cases": "418159",
+        "deaths": "2654",
+        "incidence rate": "40.371",
+        "mortality rate": "0.256",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1986",
+        "cases": "198738",
+        "deaths": "833",
+        "incidence rate": "18.972",
+        "mortality rate": "0.08",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1987",
+        "cases": "104925",
+        "deaths": "217",
+        "incidence rate": "9.884",
+        "mortality rate": "0.02",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1988",
+        "cases": "95994",
+        "deaths": "524",
+        "incidence rate": "8.904",
+        "mortality rate": "0.049",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1989",
+        "cases": "85049",
+        "deaths": "355",
+        "incidence rate": "7.767",
+        "mortality rate": "0.032",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1990",
+        "cases": "85705",
+        "deaths": "190",
+        "incidence rate": "7.711",
+        "mortality rate": "0.0171",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1991",
+        "cases": "123428",
+        "deaths": "352",
+        "incidence rate": "10.778",
+        "mortality rate": "0.0307",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1992",
+        "cases": "140048",
+        "deaths": "399",
+        "incidence rate": "12.103",
+        "mortality rate": "0.0345",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1993",
+        "cases": "117851",
+        "deaths": "372",
+        "incidence rate": "10.163",
+        "mortality rate": "0.0321",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1994",
+        "cases": "86062",
+        "deaths": "246",
+        "incidence rate": "7.367",
+        "mortality rate": "0.0211",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1995",
+        "cases": "57281",
+        "deaths": "108",
+        "incidence rate": "4.8362",
+        "mortality rate": "0.0091",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1996",
+        "cases": "74682",
+        "deaths": "156",
+        "incidence rate": "6.2741",
+        "mortality rate": "0.0131",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1997",
+        "cases": "82687",
+        "deaths": "250",
+        "incidence rate": "6.8575",
+        "mortality rate": "0.0207",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1998",
+        "cases": "56850",
+        "deaths": "133",
+        "incidence rate": "4.5413",
+        "mortality rate": "0.0106",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "1999",
+        "cases": "61840",
+        "deaths": "153",
+        "incidence rate": "4.9791",
+        "mortality rate": "0.0123",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2000",
+        "cases": "73567",
+        "deaths": "164",
+        "incidence rate": "5.9267",
+        "mortality rate": "0.0132",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2001",
+        "cases": "90935",
+        "deaths": "160",
+        "incidence rate": "7.1546",
+        "mortality rate": "0.0126",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2002",
+        "cases": "63709",
+        "deaths": "138",
+        "incidence rate": "4.7574",
+        "mortality rate": "0.0103",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2003",
+        "cases": "74813",
+        "deaths": "79",
+        "incidence rate": "5.548",
+        "mortality rate": "0.0059",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2004",
+        "cases": "70549",
+        "deaths": "26",
+        "incidence rate": "5.4273",
+        "mortality rate": "0.002",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2005",
+        "cases": "123136",
+        "deaths": "55",
+        "incidence rate": "9.4729",
+        "mortality rate": "0.0042",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2006",
+        "cases": "99602",
+        "deaths": "35",
+        "incidence rate": "7.6174",
+        "mortality rate": "0.0027",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2007",
+        "cases": "109023",
+        "deaths": "66",
+        "incidence rate": "8.294",
+        "mortality rate": "0.005",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2008",
+        "cases": "131441",
+        "deaths": "102",
+        "incidence rate": "9.9479",
+        "mortality rate": "0.0077",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2009",
+        "cases": "52461",
+        "deaths": "39",
+        "incidence rate": "3.9503",
+        "mortality rate": "0.0029",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2010",
+        "cases": "38159",
+        "deaths": "27",
+        "incidence rate": "2.8589",
+        "mortality rate": "0.002",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2011",
+        "cases": "9943",
+        "deaths": "10",
+        "incidence rate": "0.7415",
+        "mortality rate": "0.0007",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2012",
+        "cases": "6183",
+        "deaths": "8",
+        "incidence rate": "0.4589",
+        "mortality rate": "0.0006",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2013",
+        "cases": "27646",
+        "deaths": "24",
+        "incidence rate": "2.0417",
+        "mortality rate": "0.0018",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    },
+    {
+        "year": "2014",
+        "cases": "52628",
+        "deaths": "28",
+        "incidence rate": "3.8835",
+        "mortality rate": "0.0021",
+        "name": "麻疹",
+        "region": "全国",
+        "id": "0"
+    }
+]

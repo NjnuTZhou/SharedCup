@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "1613",
+        "deaths": "181",
+        "incidence rate": "12.02",
+        "mortality rate": "1.35",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1951",
+        "cases": "8776",
+        "deaths": "394",
+        "incidence rate": "61.5",
+        "mortality rate": "2.76",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1952",
+        "cases": "19441",
+        "deaths": "717",
+        "incidence rate": "132.19",
+        "mortality rate": "4.88",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1953",
+        "cases": "20921",
+        "deaths": "688",
+        "incidence rate": "138.6",
+        "mortality rate": "4.56",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1954",
+        "cases": "27680",
+        "deaths": "467",
+        "incidence rate": "167.62",
+        "mortality rate": "2.83",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1955",
+        "cases": "112332",
+        "deaths": "2070",
+        "incidence rate": "659.32",
+        "mortality rate": "12.15",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1956",
+        "cases": "95904",
+        "deaths": "2117",
+        "incidence rate": "546.18",
+        "mortality rate": "12.06",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1957",
+        "cases": "103710",
+        "deaths": "1603",
+        "incidence rate": "575.24",
+        "mortality rate": "8.89",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1958",
+        "cases": "56510",
+        "deaths": "932",
+        "incidence rate": "308.51",
+        "mortality rate": "5.09",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1959",
+        "cases": "184018",
+        "deaths": "3590",
+        "incidence rate": "978.41",
+        "mortality rate": "19.09",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1960",
+        "cases": "48939",
+        "deaths": "596",
+        "incidence rate": "251.72",
+        "mortality rate": "3.07",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1961",
+        "cases": "64433",
+        "deaths": "520",
+        "incidence rate": "327.33",
+        "mortality rate": "2.64",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1962",
+        "cases": "93873",
+        "deaths": "1109",
+        "incidence rate": "467.54",
+        "mortality rate": "5.52",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1963",
+        "cases": "93468",
+        "deaths": "1058",
+        "incidence rate": "454.6",
+        "mortality rate": "5.15",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1964",
+        "cases": "180014",
+        "deaths": "2419",
+        "incidence rate": "857.24",
+        "mortality rate": "11.52",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1965",
+        "cases": "222048",
+        "deaths": "2559",
+        "incidence rate": "1035.53",
+        "mortality rate": "11.93",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1966",
+        "cases": "220534",
+        "deaths": "2259",
+        "incidence rate": "1005.03",
+        "mortality rate": "10.29",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1967",
+        "cases": "57699",
+        "deaths": "514",
+        "incidence rate": "256.58",
+        "mortality rate": "2.29",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1968",
+        "cases": "6608",
+        "deaths": "29",
+        "incidence rate": "28.69",
+        "mortality rate": "0.13",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1969",
+        "cases": "66371",
+        "deaths": "643",
+        "incidence rate": "281.5",
+        "mortality rate": "2.73",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1970",
+        "cases": "81036",
+        "deaths": "737",
+        "incidence rate": "333.76",
+        "mortality rate": "3.04",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1971",
+        "cases": "127609",
+        "deaths": "760",
+        "incidence rate": "518.71",
+        "mortality rate": "3.09",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1972",
+        "cases": "110760",
+        "deaths": "736",
+        "incidence rate": "433.74",
+        "mortality rate": "2.88",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1973",
+        "cases": "155064",
+        "deaths": "976",
+        "incidence rate": "594.07",
+        "mortality rate": "3.74",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1974",
+        "cases": "59402",
+        "deaths": "363",
+        "incidence rate": "223.7",
+        "mortality rate": "1.37",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1975",
+        "cases": "89385",
+        "deaths": "542",
+        "incidence rate": "332.03",
+        "mortality rate": "2.01",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1976",
+        "cases": "73010",
+        "deaths": "389",
+        "incidence rate": "268.24",
+        "mortality rate": "1.43",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1977",
+        "cases": "71363",
+        "deaths": "456",
+        "incidence rate": "259.4",
+        "mortality rate": "1.66",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1978",
+        "cases": "51221",
+        "deaths": "321",
+        "incidence rate": "185.43",
+        "mortality rate": "1.16",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1979",
+        "cases": "31354",
+        "deaths": "130",
+        "incidence rate": "111.7",
+        "mortality rate": "0.46",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1980",
+        "cases": "30243",
+        "deaths": "122",
+        "incidence rate": "106.81",
+        "mortality rate": "0.43",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1981",
+        "cases": "14250",
+        "deaths": "59",
+        "incidence rate": "49.75",
+        "mortality rate": "0.21",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1982",
+        "cases": "5203",
+        "deaths": "14",
+        "incidence rate": "18.04",
+        "mortality rate": "0.05",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1983",
+        "cases": "15228",
+        "deaths": "40",
+        "incidence rate": "52.2",
+        "mortality rate": "0.14",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1984",
+        "cases": "20600",
+        "deaths": "93",
+        "incidence rate": "69.8708",
+        "mortality rate": "0.3154",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1985",
+        "cases": "10122",
+        "deaths": "35",
+        "incidence rate": "33.924",
+        "mortality rate": "0.117",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1986",
+        "cases": "3671",
+        "deaths": "8",
+        "incidence rate": "12.147",
+        "mortality rate": "0.026",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1987",
+        "cases": "1799",
+        "deaths": "1",
+        "incidence rate": "5.869",
+        "mortality rate": "0.003",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1988",
+        "cases": "3272",
+        "deaths": "4",
+        "incidence rate": "10.516",
+        "mortality rate": "0.013",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1989",
+        "cases": "5393",
+        "deaths": "25",
+        "incidence rate": "17.018",
+        "mortality rate": "0.079",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1990",
+        "cases": "1736",
+        "deaths": "2",
+        "incidence rate": "5.383",
+        "mortality rate": "0.006",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1991",
+        "cases": "3625",
+        "deaths": "11",
+        "incidence rate": "10.858",
+        "mortality rate": "0.0329",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1992",
+        "cases": "2869",
+        "deaths": "10",
+        "incidence rate": "8.45",
+        "mortality rate": "0.0295",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1993",
+        "cases": "2105",
+        "deaths": "6",
+        "incidence rate": "6.274",
+        "mortality rate": "0.0179",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1994",
+        "cases": "2138",
+        "deaths": "6",
+        "incidence rate": "6.315",
+        "mortality rate": "0.0177",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1995",
+        "cases": "1199",
+        "deaths": "1",
+        "incidence rate": "3.4919",
+        "mortality rate": "0.0029",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1996",
+        "cases": "2330",
+        "deaths": "2",
+        "incidence rate": "6.7589",
+        "mortality rate": "0.0058",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1997",
+        "cases": "3390",
+        "deaths": "3",
+        "incidence rate": "9.6897",
+        "mortality rate": "0.0086",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1998",
+        "cases": "2063",
+        "deaths": "2",
+        "incidence rate": "5.7144",
+        "mortality rate": "0.0055",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "1999",
+        "cases": "2801",
+        "deaths": "1",
+        "incidence rate": "7.7341",
+        "mortality rate": "0.0028",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2000",
+        "cases": "4076",
+        "deaths": "1",
+        "incidence rate": "11.2658",
+        "mortality rate": "0.0028",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2001",
+        "cases": "6991",
+        "deaths": "2",
+        "incidence rate": "19.2744",
+        "mortality rate": "0.0055",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2002",
+        "cases": "3040",
+        "deaths": "3",
+        "incidence rate": "7.9765",
+        "mortality rate": "0.0079",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2003",
+        "cases": "3638",
+        "deaths": "3",
+        "incidence rate": "9.9958",
+        "mortality rate": "0.0082",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2004",
+        "cases": "2888",
+        "deaths": "1",
+        "incidence rate": "7.8948",
+        "mortality rate": "0.0027",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2005",
+        "cases": "3221",
+        "deaths": "3",
+        "incidence rate": "8.6933",
+        "mortality rate": "0.0081",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2006",
+        "cases": "1003",
+        "deaths": "0",
+        "incidence rate": "2.6962",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2007",
+        "cases": "1871",
+        "deaths": "0",
+        "incidence rate": "5.0094",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2008",
+        "cases": "381",
+        "deaths": "0",
+        "incidence rate": "1.0165",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2009",
+        "cases": "296",
+        "deaths": "0",
+        "incidence rate": "0.7868",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2010",
+        "cases": "829",
+        "deaths": "2",
+        "incidence rate": "2.1978",
+        "mortality rate": "0.0053",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2011",
+        "cases": "891",
+        "deaths": "1",
+        "incidence rate": "2.387",
+        "mortality rate": "0.0027",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2012",
+        "cases": "22",
+        "deaths": "0",
+        "incidence rate": "0.0588",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2013",
+        "cases": "81",
+        "deaths": "0",
+        "incidence rate": "0.2158",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    },
+    {
+        "year": "2014",
+        "cases": "80",
+        "deaths": "0",
+        "incidence rate": "0.2125",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "陕西",
+        "id": "61000000"
+    }
+]

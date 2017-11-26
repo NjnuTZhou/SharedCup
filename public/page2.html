@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="javascripts/echarts.js"></script>
+    <script src="http://echarts.baidu.com/asset/map/js/china.js"></script>
+    <script src="javascripts/echarts-gl.min.js"></script>
+    <script src="http://echarts.baidu.com/asset/map/js/world.js"></script>
+    <script src="javascripts/jquery.js"></script>
+    <script src="javascripts/dat.gui.js"></script>
+    <script src="javascripts/layer.js"></script>
+    <script src="readdata.js"></script>
+</head>
+<body>
+    <div id="map" style="width:50%;height:720px" ></div>
+    <div id="rate" style="width:50%;height:330px;margin-top:-720px;margin-left:50%"></div>
+    <div id="case" style="width:50%;height:330px;margin-left:50%"></div>
+</body>
+<script>
+    var mymap = echarts.init(document.getElementById('map'));
+    var myrate= echarts.init(document.getElementById('rate'));
+    var mycase= echarts.init(document.getElementById('case'));
+
+    
+
+    var mymapoption={
+        title:{
+            text:"各省麻疹发病及死亡情况一览"
+        },
+        series: [{
+            type: 'map',
+            map: 'china',
+            label: {
+                show: 'true',
+                textStyle: {
+                    fontSize: 5,
+                    borderWidth: 0
+                },
+                distance: 0
+            },
+            itemStyle: {
+                normal:{
+                    borderWidth: 0.3,
+                    borderColor: '#000',
+                    areaColor:'	#fff143'
+                },
+                emphasis:{
+                    borderWidth: 0.3,
+                    borderColor: '#000',
+                    areaColor:'#CD0000'
+                }
+            },
+            
+        }]
+    };
+    mymap.setOption(mymapoption);
+    var name="江苏";
+    var year=getprovincedata(name,"year");
+    myrate.setOption(setratedata(name,year));
+    mycase.setOption(setcasedata(name,year));
+    mymap.on('click', function (param){
+        newname=param.name;
+        newyear=getprovincedata(name,"year");
+        myrate.setOption(setratedata(newname,newyear));
+        mycase.setOption(setcasedata(newname,newyear));
+    });
+    function setratedata(name,year){
+        var option = {
+            title:{
+                text:name
+            },
+            tooltip : {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'cross'
+                }
+            },    
+            legend: {
+                data:['发病率（1/10万）','死亡率（1/10万）']
+            },
+            toolbox: {
+                show : true,
+                feature : {
+                    mark : {show: true},
+                    dataView : {show: true, readOnly: false},
+                    magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+                    restore : {show: true},
+                    saveAsImage : {show: true}
+                }
+            },
+            calculable : true,
+            xAxis : [
+                {
+                    type : 'category',
+                    boundaryGap : false,
+                    data : year
+                }
+            ],
+            yAxis : [
+                {
+                    type : 'value',
+                    name:'发病率',
+                    
+                },
+                {
+                    type:'value',
+                    name:'死亡率',
+                    
+                }
+            ],
+            series : [
+                {
+                    name:'发病率（1/10万）',
+                    type:'line',
+                    data:getprovincedata(name,"incidence rate"),
+                    yAxisIndex:0,
+                    itemStyle:{
+                        normal:{
+                            color:'#FF0000'
+                        }
+                    }
+                },
+                {
+                    name:'死亡率（1/10万）',
+                    type:'line',
+                    data:getprovincedata(name,"mortality rate"),
+                    yAxisIndex:1,
+                    itemStyle:{
+                        normal:{
+                            color:'#0000FF'
+                        }
+                    }
+                }
+            ]
+        };
+        return option;
+    }
+
+    function setcasedata(name,year){
+        var option = {
+            title:{
+                text:name
+            },
+            tooltip : {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'cross'
+                }
+            },    
+            legend: {
+                data:['发病人数','死亡人数']
+            },
+            toolbox: {
+                show : true,
+                feature : {
+                    mark : {show: true},
+                    dataView : {show: true, readOnly: false},
+                    magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+                    restore : {show: true},
+                    saveAsImage : {show: true}
+                }
+            },
+            calculable : true,
+            xAxis : [
+                {
+                    type : 'category',
+                    boundaryGap : false,
+                    data : year
+                }
+            ],
+            yAxis : [
+                {
+                    type : 'value',
+                    name:'发病人数'
+                },
+                {
+                    type:'value',
+                    name:'死亡人数'
+                }
+            ],
+            series : [
+                {
+                    name:'发病人数',
+                    type:'bar',
+                    data:getprovincedata(name,"cases"),
+                    yAxisIndex:0,
+                    itemStyle:{
+                        normal:{
+                            color:'#FF0000'
+                        }
+                    }
+                },
+                {
+                    name:'死亡人数',
+                    type:'bar',
+                    data:getprovincedata(name,"deaths"),
+                    yAxisIndex:1,
+                    itemStyle:{
+                        normal:{
+                            color:'#0000FF'
+                        }
+                    }
+                }
+            ]
+        };
+        return option;
+    }
+</script>

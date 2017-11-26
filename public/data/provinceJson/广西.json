@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "187",
+        "deaths": "59",
+        "incidence rate": "1.12",
+        "mortality rate": "0.35",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1951",
+        "cases": "15523",
+        "deaths": "651",
+        "incidence rate": "91.27",
+        "mortality rate": "3.83",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1952",
+        "cases": "35030",
+        "deaths": "675",
+        "incidence rate": "202.35",
+        "mortality rate": "3.9",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1953",
+        "cases": "29095",
+        "deaths": "466",
+        "incidence rate": "165.11",
+        "mortality rate": "2.64",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1954",
+        "cases": "16697",
+        "deaths": "206",
+        "incidence rate": "92.98",
+        "mortality rate": "1.15",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1955",
+        "cases": "47677",
+        "deaths": "629",
+        "incidence rate": "260.5",
+        "mortality rate": "3.44",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1956",
+        "cases": "100361",
+        "deaths": "1145",
+        "incidence rate": "538.52",
+        "mortality rate": "6.14",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1957",
+        "cases": "155454",
+        "deaths": "2179",
+        "incidence rate": "815.67",
+        "mortality rate": "11.43",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1958",
+        "cases": "48402",
+        "deaths": "516",
+        "incidence rate": "250.67",
+        "mortality rate": "2.67",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1959",
+        "cases": "272233",
+        "deaths": "4138",
+        "incidence rate": "1381.34",
+        "mortality rate": "21",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1960",
+        "cases": "62767",
+        "deaths": "361",
+        "incidence rate": "316.47",
+        "mortality rate": "1.82",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1961",
+        "cases": "50662",
+        "deaths": "434",
+        "incidence rate": "260.06",
+        "mortality rate": "2.23",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1962",
+        "cases": "234160",
+        "deaths": "3397",
+        "incidence rate": "1188.7",
+        "mortality rate": "17.24",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1963",
+        "cases": "111787",
+        "deaths": "2082",
+        "incidence rate": "549.82",
+        "mortality rate": "10.24",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1964",
+        "cases": "140840",
+        "deaths": "1697",
+        "incidence rate": "672.54",
+        "mortality rate": "8.1",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1965",
+        "cases": "291070",
+        "deaths": "3025",
+        "incidence rate": "1274.7",
+        "mortality rate": "13.25",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1966",
+        "cases": "182983",
+        "deaths": "1406",
+        "incidence rate": "735.92",
+        "mortality rate": "5.65",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1967",
+        "cases": "80522",
+        "deaths": "467",
+        "incidence rate": "314.12",
+        "mortality rate": "1.82",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1968",
+        "cases": "109119",
+        "deaths": "712",
+        "incidence rate": "415.85",
+        "mortality rate": "2.71",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1969",
+        "cases": "236949",
+        "deaths": "1402",
+        "incidence rate": "878.4",
+        "mortality rate": "5.2",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1970",
+        "cases": "115407",
+        "deaths": "406",
+        "incidence rate": "414.89",
+        "mortality rate": "1.46",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1971",
+        "cases": "241463",
+        "deaths": "545",
+        "incidence rate": "844.89",
+        "mortality rate": "1.91",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1972",
+        "cases": "219219",
+        "deaths": "814",
+        "incidence rate": "746.72",
+        "mortality rate": "2.77",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1973",
+        "cases": "124178",
+        "deaths": "536",
+        "incidence rate": "411.88",
+        "mortality rate": "1.78",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1974",
+        "cases": "192685",
+        "deaths": "934",
+        "incidence rate": "622.89",
+        "mortality rate": "3.02",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1975",
+        "cases": "59755",
+        "deaths": "183",
+        "incidence rate": "188.77",
+        "mortality rate": "0.58",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1976",
+        "cases": "20124",
+        "deaths": "33",
+        "incidence rate": "62.22",
+        "mortality rate": "0.1",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1977",
+        "cases": "12405",
+        "deaths": "25",
+        "incidence rate": "37.61",
+        "mortality rate": "0.08",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1978",
+        "cases": "14608",
+        "deaths": "43",
+        "incidence rate": "43.41",
+        "mortality rate": "0.13",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1979",
+        "cases": "42420",
+        "deaths": "168",
+        "incidence rate": "123.46",
+        "mortality rate": "0.49",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1980",
+        "cases": "71431",
+        "deaths": "733",
+        "incidence rate": "203.83",
+        "mortality rate": "2.1",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1981",
+        "cases": "16649",
+        "deaths": "148",
+        "incidence rate": "46.56",
+        "mortality rate": "0.41",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1982",
+        "cases": "16736",
+        "deaths": "146",
+        "incidence rate": "45.87",
+        "mortality rate": "0.4",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1983",
+        "cases": "17627",
+        "deaths": "118",
+        "incidence rate": "47.53",
+        "mortality rate": "0.32",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1984",
+        "cases": "11865",
+        "deaths": "101",
+        "incidence rate": "31.4773",
+        "mortality rate": "0.2679",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1985",
+        "cases": "12504",
+        "deaths": "122",
+        "incidence rate": "32.568",
+        "mortality rate": "0.318",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1986",
+        "cases": "7249",
+        "deaths": "99",
+        "incidence rate": "18.542",
+        "mortality rate": "0.253",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1987",
+        "cases": "2574",
+        "deaths": "10",
+        "incidence rate": "6.465",
+        "mortality rate": "0.025",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1988",
+        "cases": "5926",
+        "deaths": "41",
+        "incidence rate": "14.571",
+        "mortality rate": "0.101",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1989",
+        "cases": "6640",
+        "deaths": "23",
+        "incidence rate": "16.12",
+        "mortality rate": "0.056",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1990",
+        "cases": "5907",
+        "deaths": "13",
+        "incidence rate": "14.138",
+        "mortality rate": "0.031",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1991",
+        "cases": "5050",
+        "deaths": "33",
+        "incidence rate": "11.8",
+        "mortality rate": "0.0771",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1992",
+        "cases": "13059",
+        "deaths": "65",
+        "incidence rate": "30.071",
+        "mortality rate": "0.1497",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1993",
+        "cases": "18814",
+        "deaths": "102",
+        "incidence rate": "42.914",
+        "mortality rate": "0.2327",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1994",
+        "cases": "7766",
+        "deaths": "30",
+        "incidence rate": "17.523",
+        "mortality rate": "0.0677",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1995",
+        "cases": "3232",
+        "deaths": "8",
+        "incidence rate": "7.1794",
+        "mortality rate": "0.0178",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1996",
+        "cases": "3471",
+        "deaths": "6",
+        "incidence rate": "7.669",
+        "mortality rate": "0.0133",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1997",
+        "cases": "4407",
+        "deaths": "13",
+        "incidence rate": "9.5823",
+        "mortality rate": "0.0283",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1998",
+        "cases": "5941",
+        "deaths": "11",
+        "incidence rate": "12.6672",
+        "mortality rate": "0.0235",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "1999",
+        "cases": "3812",
+        "deaths": "3",
+        "incidence rate": "8.0812",
+        "mortality rate": "0.0064",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2000",
+        "cases": "5820",
+        "deaths": "7",
+        "incidence rate": "12.35",
+        "mortality rate": "0.0149",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2001",
+        "cases": "6307",
+        "deaths": "7",
+        "incidence rate": "13.938",
+        "mortality rate": "0.0155",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2002",
+        "cases": "3324",
+        "deaths": "11",
+        "incidence rate": "6.4442",
+        "mortality rate": "0.0213",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2003",
+        "cases": "2519",
+        "deaths": "1",
+        "incidence rate": "5.2574",
+        "mortality rate": "0.0021",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2004",
+        "cases": "1410",
+        "deaths": "2",
+        "incidence rate": "2.9037",
+        "mortality rate": "0.0041",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2005",
+        "cases": "1594",
+        "deaths": "3",
+        "incidence rate": "3.4485",
+        "mortality rate": "0.0065",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2006",
+        "cases": "886",
+        "deaths": "1",
+        "incidence rate": "1.9013",
+        "mortality rate": "0.0021",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2007",
+        "cases": "989",
+        "deaths": "8",
+        "incidence rate": "2.0958",
+        "mortality rate": "0.017",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2008",
+        "cases": "1006",
+        "deaths": "1",
+        "incidence rate": "2.1099",
+        "mortality rate": "0.0021",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2009",
+        "cases": "110",
+        "deaths": "0",
+        "incidence rate": "0.2284",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2010",
+        "cases": "26",
+        "deaths": "0",
+        "incidence rate": "0.0535",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2011",
+        "cases": "26",
+        "deaths": "0",
+        "incidence rate": "0.0565",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2012",
+        "cases": "32",
+        "deaths": "0",
+        "incidence rate": "0.0689",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2013",
+        "cases": "1341",
+        "deaths": "2",
+        "incidence rate": "2.8642",
+        "mortality rate": "0.0043",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    },
+    {
+        "year": "2014",
+        "cases": "3171",
+        "deaths": "2",
+        "incidence rate": "6.7196",
+        "mortality rate": "0.0042",
+        "name": "麻疹",
+        "region": "广西",
+        "id": "45000000"
+    }
+]

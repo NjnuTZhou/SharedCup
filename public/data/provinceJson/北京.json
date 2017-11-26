@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "809",
+        "deaths": "160",
+        "incidence rate": "39.73",
+        "mortality rate": "7.86",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1951",
+        "cases": "12645",
+        "deaths": "1017",
+        "incidence rate": "593.54",
+        "mortality rate": "47.74",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1952",
+        "cases": "11484",
+        "deaths": "326",
+        "incidence rate": "487.87",
+        "mortality rate": "13.85",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1953",
+        "cases": "37123",
+        "deaths": "998",
+        "incidence rate": "1413.08",
+        "mortality rate": "37.99",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1954",
+        "cases": "11466",
+        "deaths": "72",
+        "incidence rate": "390.66",
+        "mortality rate": "2.45",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1955",
+        "cases": "85777",
+        "deaths": "781",
+        "incidence rate": "2720.96",
+        "mortality rate": "24.77",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1956",
+        "cases": "68041",
+        "deaths": "303",
+        "incidence rate": "1947.72",
+        "mortality rate": "8.67",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1957",
+        "cases": "83276",
+        "deaths": "868",
+        "incidence rate": "2135.74",
+        "mortality rate": "22.26",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1958",
+        "cases": "133309",
+        "deaths": "1280",
+        "incidence rate": "2591.89",
+        "mortality rate": "24.89",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1959",
+        "cases": "157496",
+        "deaths": "2341",
+        "incidence rate": "2401.78",
+        "mortality rate": "35.7",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1960",
+        "cases": "52051",
+        "deaths": "182",
+        "incidence rate": "735.06",
+        "mortality rate": "2.57",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1961",
+        "cases": "106499",
+        "deaths": "537",
+        "incidence rate": "1465.76",
+        "mortality rate": "7.39",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1962",
+        "cases": "91614",
+        "deaths": "400",
+        "incidence rate": "1268.31",
+        "mortality rate": "5.54",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1963",
+        "cases": "158887",
+        "deaths": "594",
+        "incidence rate": "2160.24",
+        "mortality rate": "8.08",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1964",
+        "cases": "124853",
+        "deaths": "341",
+        "incidence rate": "1651.07",
+        "mortality rate": "4.51",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1965",
+        "cases": "175546",
+        "deaths": "526",
+        "incidence rate": "2278.42",
+        "mortality rate": "6.83",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1966",
+        "cases": "7277",
+        "deaths": "25",
+        "incidence rate": "94.14",
+        "mortality rate": "0.32",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1967",
+        "cases": "3955",
+        "deaths": "3",
+        "incidence rate": "50.97",
+        "mortality rate": "0.04",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1968",
+        "cases": "3955",
+        "deaths": "4",
+        "incidence rate": "50.59",
+        "mortality rate": "0.05",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1969",
+        "cases": "30756",
+        "deaths": "80",
+        "incidence rate": "397.05",
+        "mortality rate": "1.03",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1970",
+        "cases": "14961",
+        "deaths": "32",
+        "incidence rate": "194.44",
+        "mortality rate": "0.42",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1971",
+        "cases": "3607",
+        "deaths": "13",
+        "incidence rate": "46.43",
+        "mortality rate": "0.17",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1972",
+        "cases": "11669",
+        "deaths": "19",
+        "incidence rate": "148.16",
+        "mortality rate": "0.24",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1973",
+        "cases": "19875",
+        "deaths": "116",
+        "incidence rate": "248.68",
+        "mortality rate": "1.45",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1974",
+        "cases": "12976",
+        "deaths": "75",
+        "incidence rate": "160.23",
+        "mortality rate": "0.93",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1975",
+        "cases": "2635",
+        "deaths": "14",
+        "incidence rate": "32.21",
+        "mortality rate": "0.17",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1976",
+        "cases": "4226",
+        "deaths": "22",
+        "incidence rate": "51.2",
+        "mortality rate": "0.27",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1977",
+        "cases": "3536",
+        "deaths": "11",
+        "incidence rate": "42.43",
+        "mortality rate": "0.13",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1978",
+        "cases": "12320",
+        "deaths": "44",
+        "incidence rate": "145.99",
+        "mortality rate": "0.52",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1979",
+        "cases": "8699",
+        "deaths": "52",
+        "incidence rate": "101.14",
+        "mortality rate": "0.6",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1980",
+        "cases": "6192",
+        "deaths": "9",
+        "incidence rate": "70.51",
+        "mortality rate": "0.1",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1981",
+        "cases": "5865",
+        "deaths": "0",
+        "incidence rate": "65.66",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1982",
+        "cases": "17567",
+        "deaths": "16",
+        "incidence rate": "193.19",
+        "mortality rate": "0.18",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1983",
+        "cases": "4295",
+        "deaths": "8",
+        "incidence rate": "46.41",
+        "mortality rate": "0.09",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1984",
+        "cases": "879",
+        "deaths": "1",
+        "incidence rate": "9.3482",
+        "mortality rate": "0.0106",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1985",
+        "cases": "867",
+        "deaths": "1",
+        "incidence rate": "9.091",
+        "mortality rate": "0.01",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1986",
+        "cases": "1277",
+        "deaths": "0",
+        "incidence rate": "13.196",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1987",
+        "cases": "350",
+        "deaths": "0",
+        "incidence rate": "3.557",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1988",
+        "cases": "159",
+        "deaths": "0",
+        "incidence rate": "1.588",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1989",
+        "cases": "74",
+        "deaths": "0",
+        "incidence rate": "0.73",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1990",
+        "cases": "52",
+        "deaths": "0",
+        "incidence rate": "0.506",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1991",
+        "cases": "58",
+        "deaths": "0",
+        "incidence rate": "0.533",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1992",
+        "cases": "78",
+        "deaths": "0",
+        "incidence rate": "0.748",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1993",
+        "cases": "176",
+        "deaths": "0",
+        "incidence rate": "1.672",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1994",
+        "cases": "170",
+        "deaths": "0",
+        "incidence rate": "1.6",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1995",
+        "cases": "39",
+        "deaths": "0",
+        "incidence rate": "0.3613",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1996",
+        "cases": "66",
+        "deaths": "0",
+        "incidence rate": "0.6103",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1997",
+        "cases": "246",
+        "deaths": "0",
+        "incidence rate": "2.2484",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1998",
+        "cases": "98",
+        "deaths": "0",
+        "incidence rate": "0.7727",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "1999",
+        "cases": "575",
+        "deaths": "0",
+        "incidence rate": "4.6115",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2000",
+        "cases": "641",
+        "deaths": "0",
+        "incidence rate": "5.1398",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2001",
+        "cases": "849",
+        "deaths": "0",
+        "incidence rate": "6.1377",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2002",
+        "cases": "352",
+        "deaths": "0",
+        "incidence rate": "2.525",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2003",
+        "cases": "298",
+        "deaths": "0",
+        "incidence rate": "2.6192",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2004",
+        "cases": "311",
+        "deaths": "0",
+        "incidence rate": "2.0994",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2005",
+        "cases": "3376",
+        "deaths": "1",
+        "incidence rate": "21.9743",
+        "mortality rate": "0.0065",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2006",
+        "cases": "3750",
+        "deaths": "0",
+        "incidence rate": "24.382",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2007",
+        "cases": "2268",
+        "deaths": "2",
+        "incidence rate": "14.3452",
+        "mortality rate": "0.0127",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2008",
+        "cases": "1789",
+        "deaths": "1",
+        "incidence rate": "10.9552",
+        "mortality rate": "0.0061",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2009",
+        "cases": "1105",
+        "deaths": "0",
+        "incidence rate": "6.5192",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2010",
+        "cases": "2480",
+        "deaths": "5",
+        "incidence rate": "14.131",
+        "mortality rate": "0.0285",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2011",
+        "cases": "96",
+        "deaths": "0",
+        "incidence rate": "0.4895",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2012",
+        "cases": "79",
+        "deaths": "0",
+        "incidence rate": "0.3914",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2013",
+        "cases": "563",
+        "deaths": "0",
+        "incidence rate": "2.7207",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    },
+    {
+        "year": "2014",
+        "cases": "2378",
+        "deaths": "2",
+        "incidence rate": "11.2446",
+        "mortality rate": "0.0095",
+        "name": "麻疹",
+        "region": "北京",
+        "id": "11000000"
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1951",
+        "cases": "78360",
+        "deaths": "4196",
+        "incidence rate": "165.6",
+        "mortality rate": "8.87",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1952",
+        "cases": "89397",
+        "deaths": "3501",
+        "incidence rate": "185.2",
+        "mortality rate": "7.3",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1953",
+        "cases": "147826",
+        "deaths": "4464",
+        "incidence rate": "300.2",
+        "mortality rate": "9.07",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1954",
+        "cases": "246284",
+        "deaths": "4714",
+        "incidence rate": "487.5",
+        "mortality rate": "9.33",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1955",
+        "cases": "542282",
+        "deaths": "9928",
+        "incidence rate": "1048.09",
+        "mortality rate": "19.19",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1956",
+        "cases": "181931",
+        "deaths": "2724",
+        "incidence rate": "346.21",
+        "mortality rate": "5.18",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1957",
+        "cases": "508190",
+        "deaths": "8924",
+        "incidence rate": "945.82",
+        "mortality rate": "16.61",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1958",
+        "cases": "220966",
+        "deaths": "3636",
+        "incidence rate": "407.54",
+        "mortality rate": "6.71",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1959",
+        "cases": "522196",
+        "deaths": "11005",
+        "incidence rate": "971.89",
+        "mortality rate": "20.48",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1960",
+        "cases": "33223",
+        "deaths": "387",
+        "incidence rate": "64.04",
+        "mortality rate": "0.75",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1961",
+        "cases": "537717",
+        "deaths": "4796",
+        "incidence rate": "1021.3",
+        "mortality rate": "9.11",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1962",
+        "cases": "321492",
+        "deaths": "3452",
+        "incidence rate": "592.5",
+        "mortality rate": "6.36",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1963",
+        "cases": "330977",
+        "deaths": "3020",
+        "incidence rate": "592.62",
+        "mortality rate": "5.41",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1964",
+        "cases": "606130",
+        "deaths": "5987",
+        "incidence rate": "1081.22",
+        "mortality rate": "10.68",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1965",
+        "cases": "711512",
+        "deaths": "4471",
+        "incidence rate": "1245.86",
+        "mortality rate": "7.83",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1966",
+        "cases": "505204",
+        "deaths": "2821",
+        "incidence rate": "863.45",
+        "mortality rate": "4.82",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1967",
+        "cases": "226413",
+        "deaths": "942",
+        "incidence rate": "379.38",
+        "mortality rate": "1.58",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1968",
+        "cases": "183653",
+        "deaths": "612",
+        "incidence rate": "301.76",
+        "mortality rate": "1.01",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1969",
+        "cases": "95565",
+        "deaths": "260",
+        "incidence rate": "152.54",
+        "mortality rate": "0.42",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1970",
+        "cases": "346876",
+        "deaths": "983",
+        "incidence rate": "538.46",
+        "mortality rate": "1.53",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1971",
+        "cases": "308309",
+        "deaths": "772",
+        "incidence rate": "469.34",
+        "mortality rate": "1.18",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1972",
+        "cases": "260574",
+        "deaths": "597",
+        "incidence rate": "389.91",
+        "mortality rate": "0.89",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1973",
+        "cases": "400619",
+        "deaths": "1029",
+        "incidence rate": "589.75",
+        "mortality rate": "1.51",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1974",
+        "cases": "198737",
+        "deaths": "691",
+        "incidence rate": "289.03",
+        "mortality rate": "1.01",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1975",
+        "cases": "52294",
+        "deaths": "83",
+        "incidence rate": "75.02",
+        "mortality rate": "0.12",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1976",
+        "cases": "133108",
+        "deaths": "248",
+        "incidence rate": "189.13",
+        "mortality rate": "0.35",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1977",
+        "cases": "141214",
+        "deaths": "289",
+        "incidence rate": "198.95",
+        "mortality rate": "0.41",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1978",
+        "cases": "76205",
+        "deaths": "180",
+        "incidence rate": "106.89",
+        "mortality rate": "0.25",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1979",
+        "cases": "52060",
+        "deaths": "81",
+        "incidence rate": "72.02",
+        "mortality rate": "0.11",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1980",
+        "cases": "59108",
+        "deaths": "98",
+        "incidence rate": "81.74",
+        "mortality rate": "0.14",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1981",
+        "cases": "32514",
+        "deaths": "46",
+        "incidence rate": "44.56",
+        "mortality rate": "0.06",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1982",
+        "cases": "17901",
+        "deaths": "31",
+        "incidence rate": "24.05",
+        "mortality rate": "0.04",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1983",
+        "cases": "8299",
+        "deaths": "18",
+        "incidence rate": "11.02",
+        "mortality rate": "0.02",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1984",
+        "cases": "10780",
+        "deaths": "26",
+        "incidence rate": "14.1836",
+        "mortality rate": "0.0342",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1985",
+        "cases": "7138",
+        "deaths": "9",
+        "incidence rate": "9.311",
+        "mortality rate": "0.012",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1986",
+        "cases": "5206",
+        "deaths": "20",
+        "incidence rate": "6.73",
+        "mortality rate": "0.026",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1987",
+        "cases": "2556",
+        "deaths": "2",
+        "incidence rate": "3.263",
+        "mortality rate": "0.003",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1988",
+        "cases": "1573",
+        "deaths": "7",
+        "incidence rate": "1.985",
+        "mortality rate": "0.009",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1989",
+        "cases": "2146",
+        "deaths": "6",
+        "incidence rate": "2.651",
+        "mortality rate": "0.007",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1990",
+        "cases": "1472",
+        "deaths": "6",
+        "incidence rate": "1.789",
+        "mortality rate": "0.007",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1991",
+        "cases": "623",
+        "deaths": "0",
+        "incidence rate": "0.73",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1992",
+        "cases": "1449",
+        "deaths": "4",
+        "incidence rate": "1.677",
+        "mortality rate": "0.0046",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1993",
+        "cases": "1859",
+        "deaths": "2",
+        "incidence rate": "2.162",
+        "mortality rate": "0.0023",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1994",
+        "cases": "1067",
+        "deaths": "1",
+        "incidence rate": "1.235",
+        "mortality rate": "0.0012",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1995",
+        "cases": "1012",
+        "deaths": "1",
+        "incidence rate": "1.1652",
+        "mortality rate": "0.0012",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1996",
+        "cases": "1061",
+        "deaths": "1",
+        "incidence rate": "1.216",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1997",
+        "cases": "766",
+        "deaths": "1",
+        "incidence rate": "0.8758",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1998",
+        "cases": "823",
+        "deaths": "1",
+        "incidence rate": "0.9328",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "1999",
+        "cases": "1576",
+        "deaths": "1",
+        "incidence rate": "1.7735",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2000",
+        "cases": "499",
+        "deaths": "0",
+        "incidence rate": "0.5619",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2001",
+        "cases": "715",
+        "deaths": "0",
+        "incidence rate": "0.7838",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2002",
+        "cases": "796",
+        "deaths": "0",
+        "incidence rate": "0.8395",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2003",
+        "cases": "431",
+        "deaths": "0",
+        "incidence rate": "0.4772",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2004",
+        "cases": "424",
+        "deaths": "0",
+        "incidence rate": "0.4624",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2005",
+        "cases": "3347",
+        "deaths": "1",
+        "incidence rate": "3.6403",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2006",
+        "cases": "3241",
+        "deaths": "2",
+        "incidence rate": "3.5045",
+        "mortality rate": "0.0022",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2007",
+        "cases": "2416",
+        "deaths": "1",
+        "incidence rate": "2.5953",
+        "mortality rate": "0.0011",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2008",
+        "cases": "9441",
+        "deaths": "7",
+        "incidence rate": "10.079",
+        "mortality rate": "0.0075",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2009",
+        "cases": "2199",
+        "deaths": "4",
+        "incidence rate": "2.3351",
+        "mortality rate": "0.0042",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2010",
+        "cases": "1779",
+        "deaths": "2",
+        "incidence rate": "1.8785",
+        "mortality rate": "0.0021",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2011",
+        "cases": "483",
+        "deaths": "1",
+        "incidence rate": "0.5042",
+        "mortality rate": "0.001",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2012",
+        "cases": "21",
+        "deaths": "0",
+        "incidence rate": "0.0218",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2013",
+        "cases": "1476",
+        "deaths": "1",
+        "incidence rate": "1.524",
+        "mortality rate": "0.001",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    },
+    {
+        "year": "2014",
+        "cases": "2246",
+        "deaths": "1",
+        "incidence rate": "2.3075",
+        "mortality rate": "0.001",
+        "name": "麻疹",
+        "region": "山东",
+        "id": "37000000"
+    }
+]

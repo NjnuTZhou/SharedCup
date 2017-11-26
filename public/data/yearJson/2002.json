@@ -1,0 +1,266 @@
+[
+    {
+        "region": "全国",
+        "cases": "63709",
+        "deaths": "138",
+        "incidence rate": "4.7574",
+        "mortality rate": "0.0103",
+        "ID": "0"
+    },
+    {
+        "region": "北京",
+        "cases": "352",
+        "deaths": "0",
+        "incidence rate": "2.525",
+        "mortality rate": "0",
+        "ID": "11000000"
+    },
+    {
+        "region": "天津",
+        "cases": "338",
+        "deaths": "0",
+        "incidence rate": "3.3122",
+        "mortality rate": "0",
+        "ID": "12000000"
+    },
+    {
+        "region": "河北",
+        "cases": "645",
+        "deaths": "0",
+        "incidence rate": "0.9172",
+        "mortality rate": "0",
+        "ID": "13000000"
+    },
+    {
+        "region": "山西",
+        "cases": "2107",
+        "deaths": "2",
+        "incidence rate": "6.0092",
+        "mortality rate": "0.0057",
+        "ID": "14000000"
+    },
+    {
+        "region": "内蒙古",
+        "cases": "785",
+        "deaths": "0",
+        "incidence rate": "3.1458",
+        "mortality rate": "0",
+        "ID": "15000000"
+    },
+    {
+        "region": "辽宁",
+        "cases": "254",
+        "deaths": "0",
+        "incidence rate": "0.5959",
+        "mortality rate": "0",
+        "ID": "21000000"
+    },
+    {
+        "region": "吉林",
+        "cases": "401",
+        "deaths": "0",
+        "incidence rate": "1.4414",
+        "mortality rate": "0",
+        "ID": "22000000"
+    },
+    {
+        "region": "黑龙江",
+        "cases": "410",
+        "deaths": "0",
+        "incidence rate": "1.0446",
+        "mortality rate": "0",
+        "ID": "23000000"
+    },
+    {
+        "region": "上海",
+        "cases": "142",
+        "deaths": "0",
+        "incidence rate": "0.8882",
+        "mortality rate": "0",
+        "ID": "31000000"
+    },
+    {
+        "region": "江苏",
+        "cases": "1942",
+        "deaths": "0",
+        "incidence rate": "2.5782",
+        "mortality rate": "0",
+        "ID": "32000000"
+    },
+    {
+        "region": "浙江",
+        "cases": "2248",
+        "deaths": "0",
+        "incidence rate": "4.6961",
+        "mortality rate": "0",
+        "ID": "33000000"
+    },
+    {
+        "region": "安徽",
+        "cases": "1350",
+        "deaths": "1",
+        "incidence rate": "2.0011",
+        "mortality rate": "0.0015",
+        "ID": "34000000"
+    },
+    {
+        "region": "福建",
+        "cases": "295",
+        "deaths": "0",
+        "incidence rate": "0.8087",
+        "mortality rate": "0",
+        "ID": "35000000"
+    },
+    {
+        "region": "江西",
+        "cases": "2409",
+        "deaths": "4",
+        "incidence rate": "5.2614",
+        "mortality rate": "0.0087",
+        "ID": "36000000"
+    },
+    {
+        "region": "山东",
+        "cases": "796",
+        "deaths": "0",
+        "incidence rate": "0.8395",
+        "mortality rate": "0",
+        "ID": "37000000"
+    },
+    {
+        "region": "河南",
+        "cases": "2701",
+        "deaths": "1",
+        "incidence rate": "2.6433",
+        "mortality rate": "0.001",
+        "ID": "41000000"
+    },
+    {
+        "region": "湖北",
+        "cases": "1514",
+        "deaths": "0",
+        "incidence rate": "2.4735",
+        "mortality rate": "0",
+        "ID": "42000000"
+    },
+    {
+        "region": "湖南",
+        "cases": "2687",
+        "deaths": "1",
+        "incidence rate": "3.8767",
+        "mortality rate": "0.0014",
+        "ID": "43000000"
+    },
+    {
+        "region": "广东",
+        "cases": "1381",
+        "deaths": "0",
+        "incidence rate": "1.6304",
+        "mortality rate": "0",
+        "ID": "44000000"
+    },
+    {
+        "region": "广西",
+        "cases": "3324",
+        "deaths": "11",
+        "incidence rate": "6.4442",
+        "mortality rate": "0.0213",
+        "ID": "45000000"
+    },
+    {
+        "region": "海南",
+        "cases": "509",
+        "deaths": "1",
+        "incidence rate": "5.8413",
+        "mortality rate": "0.0115",
+        "ID": "46000000"
+    },
+    {
+        "region": "重庆",
+        "cases": "1553",
+        "deaths": "0",
+        "incidence rate": "4.8779",
+        "mortality rate": "0",
+        "ID": "50000000"
+    },
+    {
+        "region": "四川",
+        "cases": "6399",
+        "deaths": "16",
+        "incidence rate": "7.0961",
+        "mortality rate": "0.0177",
+        "ID": "51000000"
+    },
+    {
+        "region": "贵州",
+        "cases": "13487",
+        "deaths": "84",
+        "incidence rate": "31.8885",
+        "mortality rate": "0.1986",
+        "ID": "52000000"
+    },
+    {
+        "region": "云南",
+        "cases": "2657",
+        "deaths": "7",
+        "incidence rate": "5.5866",
+        "mortality rate": "0.0147",
+        "ID": "53000000"
+    },
+    {
+        "region": "西藏",
+        "cases": "225",
+        "deaths": "0",
+        "incidence rate": "7.6317",
+        "mortality rate": "0",
+        "ID": "54000000"
+    },
+    {
+        "region": "陕西",
+        "cases": "3040",
+        "deaths": "3",
+        "incidence rate": "7.9765",
+        "mortality rate": "0.0079",
+        "ID": "61000000"
+    },
+    {
+        "region": "甘肃",
+        "cases": "1804",
+        "deaths": "1",
+        "incidence rate": "6.5383",
+        "mortality rate": "0.0036",
+        "ID": "62000000"
+    },
+    {
+        "region": "青海",
+        "cases": "558",
+        "deaths": "0",
+        "incidence rate": "9.4736",
+        "mortality rate": "0",
+        "ID": "63000000"
+    },
+    {
+        "region": "宁夏",
+        "cases": "780",
+        "deaths": "0",
+        "incidence rate": "12.4021",
+        "mortality rate": "0",
+        "ID": "64000000"
+    },
+    {
+        "region": "新疆",
+        "cases": "2900",
+        "deaths": "5",
+        "incidence rate": "13.9102",
+        "mortality rate": "0.024",
+        "ID": "65000000"
+    },
+    {
+        "region": "际流动",
+        "cases": "3716",
+        "deaths": "1",
+        "incidence rate": "NA",
+        "mortality rate": "NA",
+        "ID": "90000000"
+    }
+]

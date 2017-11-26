@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>网站名称</title>
+        <script src="javascripts/SpryTabbedPanels.js" type="text/javascript"></script>
+        <link href="stylesheets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+        <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+        <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=r0rwyIL5Foky1irGBgmGDnMqDoeeaYQn"></script>
+        <script>
+            function changeImage()
+            {
+                element=document.getElementById("image");
+                if(element.src.match("pic_off"))
+                {
+                    element.src="png/pic_on.png";
+                }
+                else
+                {
+                    element.src="png/pic_off.png";
+                }
+            }
+        </script>
+    </head>
+    <body style="background-color:#D3D3D3">
+        <h1 style="color:black;text-align:center">1950-2014中国麻疹分布情况</h1>
+        <div id="TabbedPanels1" class="TabbedPanels">
+            <ul class="TabbedPanelsTabGroup" style="margin:center">
+                <li class="TabbedPanelsTab1" tabindex="0">全国情况</li>
+                <li class="TabbedPanelsTab2" tabindex="0">各省情况</li>
+                <li class="TabbedPanelsTab3" tabindex="0">时间轴</li>
+                <li class="TabbedPanelsTab4" tabindex="0">相关性</li>
+            </ul>
+            <div class="TabbedPanelsContentGroup" >
+            <!-- 内容1 -->
+                <div class="TabbedPanelsContent" >
+                    <object type="text/x-scriptlet" data="page1.html" width=100% height=100%></object>
+                </div>
+            
+	        <!-- 内容2 -->
+                <div class="TabbedPanelsContent">
+                    <object type="text/x-scriptlet" data="page2.html" width=100% height=100%></object>
+	            </div>
+	
+	        <!-- 内容3 -->
+                <div class="TabbedPanelsContent">
+                    <object type="text/x-scriptlet" data="page31.html" width=100% height=100%></object>
+	            </div>
+	
+	        <!-- 内容4 -->
+                <div class="TabbedPanelsContent">
+                    <object type="text/x-scriptlet" data="page4.html" width=100% height=100%></object>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+        </script>
+    </body>
+</html>
+

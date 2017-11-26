@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1951",
+        "cases": "16019",
+        "deaths": "1633",
+        "incidence rate": "111.95",
+        "mortality rate": "11.41",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1952",
+        "cases": "26579",
+        "deaths": "2120",
+        "incidence rate": "181.14",
+        "mortality rate": "14.45",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1953",
+        "cases": "16918",
+        "deaths": "542",
+        "incidence rate": "113.03",
+        "mortality rate": "3.62",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1954",
+        "cases": "28064",
+        "deaths": "806",
+        "incidence rate": "183.38",
+        "mortality rate": "5.27",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1955",
+        "cases": "66501",
+        "deaths": "1997",
+        "incidence rate": "423.06",
+        "mortality rate": "12.7",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1956",
+        "cases": "151781",
+        "deaths": "4248",
+        "incidence rate": "929",
+        "mortality rate": "26",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1957",
+        "cases": "169534",
+        "deaths": "6402",
+        "incidence rate": "1008.62",
+        "mortality rate": "38.09",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1958",
+        "cases": "99072",
+        "deaths": "3683",
+        "incidence rate": "584.35",
+        "mortality rate": "21.72",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1959",
+        "cases": "251031",
+        "deaths": "16329",
+        "incidence rate": "1453.58",
+        "mortality rate": "94.55",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1960",
+        "cases": "21620",
+        "deaths": "639",
+        "incidence rate": "127.67",
+        "mortality rate": "3.77",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1961",
+        "cases": "8167",
+        "deaths": "241",
+        "incidence rate": "50",
+        "mortality rate": "1.48",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1962",
+        "cases": "82759",
+        "deaths": "2300",
+        "incidence rate": "503.43",
+        "mortality rate": "13.99",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1963",
+        "cases": "229746",
+        "deaths": "9340",
+        "incidence rate": "1364.35",
+        "mortality rate": "55.47",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1964",
+        "cases": "214648",
+        "deaths": "7090",
+        "incidence rate": "1242.34",
+        "mortality rate": "41.04",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1965",
+        "cases": "251256",
+        "deaths": "5583",
+        "incidence rate": "1406.53",
+        "mortality rate": "31.25",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1966",
+        "cases": "213914",
+        "deaths": "3993",
+        "incidence rate": "1154.39",
+        "mortality rate": "21.55",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1967",
+        "cases": "72739",
+        "deaths": "1409",
+        "incidence rate": "379.76",
+        "mortality rate": "7.36",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1968",
+        "cases": "166431",
+        "deaths": "3379",
+        "incidence rate": "838.63",
+        "mortality rate": "17.03",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1969",
+        "cases": "54932",
+        "deaths": "1599",
+        "incidence rate": "266.29",
+        "mortality rate": "7.75",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1970",
+        "cases": "76551",
+        "deaths": "1655",
+        "incidence rate": "361.89",
+        "mortality rate": "7.82",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1971",
+        "cases": "228863",
+        "deaths": "3620",
+        "incidence rate": "1043.22",
+        "mortality rate": "16.5",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1972",
+        "cases": "308622",
+        "deaths": "4866",
+        "incidence rate": "1347.22",
+        "mortality rate": "20.46",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1973",
+        "cases": "141150",
+        "deaths": "1946",
+        "incidence rate": "598.29",
+        "mortality rate": "8.25",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1974",
+        "cases": "318862",
+        "deaths": "5473",
+        "incidence rate": "1312.56",
+        "mortality rate": "22.53",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1975",
+        "cases": "273321",
+        "deaths": "3532",
+        "incidence rate": "1094.52",
+        "mortality rate": "14.14",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1976",
+        "cases": "160600",
+        "deaths": "1762",
+        "incidence rate": "627.83",
+        "mortality rate": "6.89",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1977",
+        "cases": "118361",
+        "deaths": "1569",
+        "incidence rate": "453.03",
+        "mortality rate": "6.01",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1978",
+        "cases": "28337",
+        "deaths": "396",
+        "incidence rate": "106.4",
+        "mortality rate": "1.49",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1979",
+        "cases": "31448",
+        "deaths": "437",
+        "incidence rate": "116.1",
+        "mortality rate": "1.61",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1980",
+        "cases": "35978",
+        "deaths": "737",
+        "incidence rate": "130.9",
+        "mortality rate": "2.68",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1981",
+        "cases": "83648",
+        "deaths": "1246",
+        "incidence rate": "298.59",
+        "mortality rate": "4.45",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1982",
+        "cases": "126230",
+        "deaths": "2408",
+        "incidence rate": "442.76",
+        "mortality rate": "8.45",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1983",
+        "cases": "54535",
+        "deaths": "1074",
+        "incidence rate": "188.81",
+        "mortality rate": "3.72",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1984",
+        "cases": "42311",
+        "deaths": "702",
+        "incidence rate": "145.0669",
+        "mortality rate": "2.4069",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1985",
+        "cases": "54363",
+        "deaths": "931",
+        "incidence rate": "184.289",
+        "mortality rate": "3.154",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1986",
+        "cases": "12318",
+        "deaths": "251",
+        "incidence rate": "41.226",
+        "mortality rate": "0.84",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1987",
+        "cases": "1932",
+        "deaths": "14",
+        "incidence rate": "6.377",
+        "mortality rate": "0.046",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1988",
+        "cases": "3391",
+        "deaths": "73",
+        "incidence rate": "11.077",
+        "mortality rate": "0.238",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1989",
+        "cases": "4824",
+        "deaths": "44",
+        "incidence rate": "15.247",
+        "mortality rate": "0.139",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1990",
+        "cases": "5303",
+        "deaths": "50",
+        "incidence rate": "16.529",
+        "mortality rate": "0.156",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1991",
+        "cases": "10743",
+        "deaths": "89",
+        "incidence rate": "32.679",
+        "mortality rate": "0.2707",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1992",
+        "cases": "16444",
+        "deaths": "52",
+        "incidence rate": "49.202",
+        "mortality rate": "0.1556",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1993",
+        "cases": "9899",
+        "deaths": "68",
+        "incidence rate": "29.846",
+        "mortality rate": "0.205",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1994",
+        "cases": "4756",
+        "deaths": "40",
+        "incidence rate": "14.17",
+        "mortality rate": "0.1192",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1995",
+        "cases": "6313",
+        "deaths": "37",
+        "incidence rate": "18.4076",
+        "mortality rate": "0.1079",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1996",
+        "cases": "10571",
+        "deaths": "60",
+        "incidence rate": "30.7354",
+        "mortality rate": "0.1745",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1997",
+        "cases": "6367",
+        "deaths": "31",
+        "incidence rate": "18.0426",
+        "mortality rate": "0.0878",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1998",
+        "cases": "7340",
+        "deaths": "66",
+        "incidence rate": "20.0316",
+        "mortality rate": "0.1801",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "1999",
+        "cases": "11203",
+        "deaths": "84",
+        "incidence rate": "30.1954",
+        "mortality rate": "0.2264",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2000",
+        "cases": "14160",
+        "deaths": "107",
+        "incidence rate": "38.1662",
+        "mortality rate": "0.2884",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2001",
+        "cases": "11753",
+        "deaths": "67",
+        "incidence rate": "33.1173",
+        "mortality rate": "0.1888",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2002",
+        "cases": "13487",
+        "deaths": "84",
+        "incidence rate": "31.8885",
+        "mortality rate": "0.1986",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2003",
+        "cases": "11267",
+        "deaths": "34",
+        "incidence rate": "29.9934",
+        "mortality rate": "0.0905",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2004",
+        "cases": "8956",
+        "deaths": "8",
+        "incidence rate": "23.4269",
+        "mortality rate": "0.0209",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2005",
+        "cases": "266",
+        "deaths": "0",
+        "incidence rate": "0.7184",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2006",
+        "cases": "378",
+        "deaths": "0",
+        "incidence rate": "1.0134",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2007",
+        "cases": "973",
+        "deaths": "2",
+        "incidence rate": "2.5897",
+        "mortality rate": "0.0053",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2008",
+        "cases": "1359",
+        "deaths": "4",
+        "incidence rate": "3.6124",
+        "mortality rate": "0.0106",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2009",
+        "cases": "271",
+        "deaths": "0",
+        "incidence rate": "0.7153",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2010",
+        "cases": "83",
+        "deaths": "1",
+        "incidence rate": "0.2185",
+        "mortality rate": "0.0026",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2011",
+        "cases": "46",
+        "deaths": "0",
+        "incidence rate": "0.1324",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2012",
+        "cases": "31",
+        "deaths": "0",
+        "incidence rate": "0.0894",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2013",
+        "cases": "77",
+        "deaths": "0",
+        "incidence rate": "0.221",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    },
+    {
+        "year": "2014",
+        "cases": "183",
+        "deaths": "1",
+        "incidence rate": "0.5225",
+        "mortality rate": "0.0029",
+        "name": "麻疹",
+        "region": "贵州",
+        "id": "52000000"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "year": "2002",
+        "cases": "3716",
+        "deaths": "1",
+        "incidence rate": "NULL",
+        "mortality rate": "NULL",
+        "name": "麻疹",
+        "region": "省际流动",
+        "id": "90000000"
+    },
+    {
+        "year": "2003",
+        "cases": "5807",
+        "deaths": "1",
+        "incidence rate": "NULL",
+        "mortality rate": "NULL",
+        "name": "麻疹",
+        "region": "省际流动",
+        "id": "90000000"
+    }
+]

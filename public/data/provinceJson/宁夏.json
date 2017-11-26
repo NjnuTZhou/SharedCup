@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1951",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1952",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1953",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1954",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1955",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1956",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1957",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1958",
+        "cases": "3543",
+        "deaths": "116",
+        "incidence rate": "186.6",
+        "mortality rate": "6.11",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1959",
+        "cases": "59098",
+        "deaths": "2967",
+        "incidence rate": "2879.58",
+        "mortality rate": "144.57",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1960",
+        "cases": "2489",
+        "deaths": "27",
+        "incidence rate": "115.03",
+        "mortality rate": "1.25",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1961",
+        "cases": "2378",
+        "deaths": "7",
+        "incidence rate": "111.18",
+        "mortality rate": "0.33",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1962",
+        "cases": "11131",
+        "deaths": "92",
+        "incidence rate": "539.64",
+        "mortality rate": "4.46",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1963",
+        "cases": "28750",
+        "deaths": "513",
+        "incidence rate": "1382.32",
+        "mortality rate": "24.66",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1964",
+        "cases": "42876",
+        "deaths": "624",
+        "incidence rate": "1984.76",
+        "mortality rate": "28.88",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1965",
+        "cases": "24132",
+        "deaths": "106",
+        "incidence rate": "1066.57",
+        "mortality rate": "4.68",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1966",
+        "cases": "37201",
+        "deaths": "288",
+        "incidence rate": "1562.22",
+        "mortality rate": "12.09",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1967",
+        "cases": "3320",
+        "deaths": "25",
+        "incidence rate": "133.47",
+        "mortality rate": "1",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1968",
+        "cases": "664",
+        "deaths": "2",
+        "incidence rate": "25.7",
+        "mortality rate": "0.08",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1969",
+        "cases": "1506",
+        "deaths": "6",
+        "incidence rate": "55.92",
+        "mortality rate": "0.22",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1970",
+        "cases": "2980",
+        "deaths": "21",
+        "incidence rate": "106.28",
+        "mortality rate": "0.75",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1971",
+        "cases": "3559",
+        "deaths": "33",
+        "incidence rate": "122.67",
+        "mortality rate": "1.14",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1972",
+        "cases": "9586",
+        "deaths": "145",
+        "incidence rate": "319.04",
+        "mortality rate": "4.82",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1973",
+        "cases": "13192",
+        "deaths": "155",
+        "incidence rate": "423.62",
+        "mortality rate": "4.98",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1974",
+        "cases": "2365",
+        "deaths": "16",
+        "incidence rate": "73.52",
+        "mortality rate": "0.5",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1975",
+        "cases": "5564",
+        "deaths": "96",
+        "incidence rate": "167.55",
+        "mortality rate": "2.89",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1976",
+        "cases": "15391",
+        "deaths": "144",
+        "incidence rate": "449.04",
+        "mortality rate": "4.2",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1977",
+        "cases": "2054",
+        "deaths": "41",
+        "incidence rate": "58.28",
+        "mortality rate": "1.16",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1978",
+        "cases": "5682",
+        "deaths": "30",
+        "incidence rate": "157.17",
+        "mortality rate": "0.83",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1979",
+        "cases": "8020",
+        "deaths": "64",
+        "incidence rate": "222.86",
+        "mortality rate": "1.78",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1980",
+        "cases": "883",
+        "deaths": "7",
+        "incidence rate": "23.93",
+        "mortality rate": "0.19",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1981",
+        "cases": "1408",
+        "deaths": "16",
+        "incidence rate": "37.19",
+        "mortality rate": "0.42",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1982",
+        "cases": "4570",
+        "deaths": "13",
+        "incidence rate": "117.72",
+        "mortality rate": "0.33",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1983",
+        "cases": "1820",
+        "deaths": "10",
+        "incidence rate": "46",
+        "mortality rate": "0.25",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1984",
+        "cases": "508",
+        "deaths": "1",
+        "incidence rate": "12.6307",
+        "mortality rate": "0.0249",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1985",
+        "cases": "187",
+        "deaths": "0",
+        "incidence rate": "4.557",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1986",
+        "cases": "75",
+        "deaths": "1",
+        "incidence rate": "1.788",
+        "mortality rate": "0.024",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1987",
+        "cases": "681",
+        "deaths": "2",
+        "incidence rate": "15.847",
+        "mortality rate": "0.047",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1988",
+        "cases": "326",
+        "deaths": "0",
+        "incidence rate": "7.366",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1989",
+        "cases": "90",
+        "deaths": "0",
+        "incidence rate": "2.001",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1990",
+        "cases": "51",
+        "deaths": "0",
+        "incidence rate": "1.111",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1991",
+        "cases": "101",
+        "deaths": "0",
+        "incidence rate": "2.132",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1992",
+        "cases": "1502",
+        "deaths": "0",
+        "incidence rate": "31.094",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1993",
+        "cases": "185",
+        "deaths": "0",
+        "incidence rate": "3.802",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1994",
+        "cases": "141",
+        "deaths": "0",
+        "incidence rate": "2.835",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1995",
+        "cases": "276",
+        "deaths": "0",
+        "incidence rate": "5.3362",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1996",
+        "cases": "1189",
+        "deaths": "2",
+        "incidence rate": "23.0091",
+        "mortality rate": "0.0387",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1997",
+        "cases": "322",
+        "deaths": "0",
+        "incidence rate": "5.9823",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1998",
+        "cases": "139",
+        "deaths": "1",
+        "incidence rate": "2.5913",
+        "mortality rate": "0.0186",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "1999",
+        "cases": "1625",
+        "deaths": "1",
+        "incidence rate": "29.8145",
+        "mortality rate": "0.0183",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2000",
+        "cases": "402",
+        "deaths": "0",
+        "incidence rate": "7.3812",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2001",
+        "cases": "852",
+        "deaths": "2",
+        "incidence rate": "14.9756",
+        "mortality rate": "0.0352",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2002",
+        "cases": "780",
+        "deaths": "0",
+        "incidence rate": "12.4021",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2003",
+        "cases": "1440",
+        "deaths": "4",
+        "incidence rate": "25.3279",
+        "mortality rate": "0.0704",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2004",
+        "cases": "1518",
+        "deaths": "0",
+        "incidence rate": "25.9953",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2005",
+        "cases": "2234",
+        "deaths": "0",
+        "incidence rate": "37.8948",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2006",
+        "cases": "31",
+        "deaths": "0",
+        "incidence rate": "0.5201",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2007",
+        "cases": "82",
+        "deaths": "0",
+        "incidence rate": "1.3576",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2008",
+        "cases": "206",
+        "deaths": "0",
+        "incidence rate": "3.3771",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2009",
+        "cases": "657",
+        "deaths": "0",
+        "incidence rate": "10.849",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2010",
+        "cases": "86",
+        "deaths": "0",
+        "incidence rate": "1.3756",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2011",
+        "cases": "72",
+        "deaths": "0",
+        "incidence rate": "1.1426",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2012",
+        "cases": "6",
+        "deaths": "0",
+        "incidence rate": "0.0938",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2013",
+        "cases": "70",
+        "deaths": "0",
+        "incidence rate": "1.0816",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    },
+    {
+        "year": "2014",
+        "cases": "67",
+        "deaths": "0",
+        "incidence rate": "1.0242",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "宁夏",
+        "id": "64000000"
+    }
+]

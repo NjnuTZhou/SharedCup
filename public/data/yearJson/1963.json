@@ -1,0 +1,242 @@
+[
+    {
+        "region": "全国",
+        "cases": "5737746",
+        "deaths": "62123",
+        "incidence rate": "842.07",
+        "mortality rate": "9.12",
+        "ID": "0"
+    },
+    {
+        "region": "北京",
+        "cases": "158887",
+        "deaths": "594",
+        "incidence rate": "2160.24",
+        "mortality rate": "8.08",
+        "ID": "11000000"
+    },
+    {
+        "region": "天津",
+        "cases": "55931",
+        "deaths": "180",
+        "incidence rate": "1364.12",
+        "mortality rate": "4.39",
+        "ID": "12000000"
+    },
+    {
+        "region": "河北",
+        "cases": "363497",
+        "deaths": "2936",
+        "incidence rate": "808.56",
+        "mortality rate": "6.53",
+        "ID": "13000000"
+    },
+    {
+        "region": "山西",
+        "cases": "128138",
+        "deaths": "1422",
+        "incidence rate": "724.88",
+        "mortality rate": "8.04",
+        "ID": "14000000"
+    },
+    {
+        "region": "内蒙古",
+        "cases": "57932",
+        "deaths": "799",
+        "incidence rate": "485.36",
+        "mortality rate": "6.69",
+        "ID": "15000000"
+    },
+    {
+        "region": "辽宁",
+        "cases": "194484",
+        "deaths": "1039",
+        "incidence rate": "733.05",
+        "mortality rate": "3.92",
+        "ID": "21000000"
+    },
+    {
+        "region": "吉林",
+        "cases": "76986",
+        "deaths": "704",
+        "incidence rate": "510.94",
+        "mortality rate": "4.67",
+        "ID": "22000000"
+    },
+    {
+        "region": "黑龙江",
+        "cases": "131233",
+        "deaths": "741",
+        "incidence rate": "679",
+        "mortality rate": "3.83",
+        "ID": "23000000"
+    },
+    {
+        "region": "上海",
+        "cases": "241412",
+        "deaths": "862",
+        "incidence rate": "2267.42",
+        "mortality rate": "8.1",
+        "ID": "31000000"
+    },
+    {
+        "region": "江苏",
+        "cases": "152585",
+        "deaths": "1208",
+        "incidence rate": "342.7",
+        "mortality rate": "2.71",
+        "ID": "32000000"
+    },
+    {
+        "region": "浙江",
+        "cases": "363553",
+        "deaths": "3001",
+        "incidence rate": "1320.16",
+        "mortality rate": "10.9",
+        "ID": "33000000"
+    },
+    {
+        "region": "安徽",
+        "cases": "45676",
+        "deaths": "405",
+        "incidence rate": "143.5",
+        "mortality rate": "1.27",
+        "ID": "34000000"
+    },
+    {
+        "region": "福建",
+        "cases": "105789",
+        "deaths": "916",
+        "incidence rate": "630.47",
+        "mortality rate": "5.46",
+        "ID": "35000000"
+    },
+    {
+        "region": "江西",
+        "cases": "152938",
+        "deaths": "1417",
+        "incidence rate": "727.92",
+        "mortality rate": "6.74",
+        "ID": "36000000"
+    },
+    {
+        "region": "山东",
+        "cases": "330977",
+        "deaths": "3020",
+        "incidence rate": "592.62",
+        "mortality rate": "5.41",
+        "ID": "37000000"
+    },
+    {
+        "region": "河南",
+        "cases": "503855",
+        "deaths": "3464",
+        "incidence rate": "1013.85",
+        "mortality rate": "6.97",
+        "ID": "41000000"
+    },
+    {
+        "region": "湖北",
+        "cases": "328978",
+        "deaths": "2983",
+        "incidence rate": "993.29",
+        "mortality rate": "9.01",
+        "ID": "42000000"
+    },
+    {
+        "region": "湖南",
+        "cases": "459825",
+        "deaths": "7217",
+        "incidence rate": "1257.13",
+        "mortality rate": "19.73",
+        "ID": "43000000"
+    },
+    {
+        "region": "广东",
+        "cases": "491996",
+        "deaths": "2510",
+        "incidence rate": "1158.45",
+        "mortality rate": "5.91",
+        "ID": "44000000"
+    },
+    {
+        "region": "广西",
+        "cases": "111787",
+        "deaths": "2082",
+        "incidence rate": "549.82",
+        "mortality rate": "10.24",
+        "ID": "45000000"
+    },
+    {
+        "region": "四川",
+        "cases": "536387",
+        "deaths": "3899",
+        "incidence rate": "813.85",
+        "mortality rate": "5.92",
+        "ID": "51000000"
+    },
+    {
+        "region": "贵州",
+        "cases": "229746",
+        "deaths": "9340",
+        "incidence rate": "1364.35",
+        "mortality rate": "55.47",
+        "ID": "52000000"
+    },
+    {
+        "region": "云南",
+        "cases": "303284",
+        "deaths": "7420",
+        "incidence rate": "1522.23",
+        "mortality rate": "37.24",
+        "ID": "53000000"
+    },
+    {
+        "region": "西藏",
+        "cases": "4283",
+        "deaths": "102",
+        "incidence rate": "337.16",
+        "mortality rate": "8.03",
+        "ID": "54000000"
+    },
+    {
+        "region": "陕西",
+        "cases": "93468",
+        "deaths": "1058",
+        "incidence rate": "454.6",
+        "mortality rate": "5.15",
+        "ID": "61000000"
+    },
+    {
+        "region": "甘肃",
+        "cases": "92459",
+        "deaths": "1786",
+        "incidence rate": "742.87",
+        "mortality rate": "14.35",
+        "ID": "62000000"
+    },
+    {
+        "region": "青海",
+        "cases": "18042",
+        "deaths": "413",
+        "incidence rate": "870.02",
+        "mortality rate": "19.92",
+        "ID": "63000000"
+    },
+    {
+        "region": "宁夏",
+        "cases": "28750",
+        "deaths": "513",
+        "incidence rate": "1382.32",
+        "mortality rate": "24.66",
+        "ID": "64000000"
+    },
+    {
+        "region": "新疆",
+        "cases": "30799",
+        "deaths": "272",
+        "incidence rate": "436.22",
+        "mortality rate": "3.85",
+        "ID": "65000000"
+    }
+]

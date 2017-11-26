@@ -1,0 +1,272 @@
+[
+    {
+        "year": "1988",
+        "cases": "823",
+        "deaths": "0",
+        "incidence rate": "13.116",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1989",
+        "cases": "1642",
+        "deaths": "3",
+        "incidence rate": "25.934",
+        "mortality rate": "0.047",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1990",
+        "cases": "774",
+        "deaths": "0",
+        "incidence rate": "12.005",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1991",
+        "cases": "262",
+        "deaths": "0",
+        "incidence rate": "3.932",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1992",
+        "cases": "492",
+        "deaths": "0",
+        "incidence rate": "7.256",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1993",
+        "cases": "1993",
+        "deaths": "7",
+        "incidence rate": "29.458",
+        "mortality rate": "0.1035",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1994",
+        "cases": "485",
+        "deaths": "0",
+        "incidence rate": "7.064",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1995",
+        "cases": "244",
+        "deaths": "0",
+        "incidence rate": "3.4801",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1996",
+        "cases": "172",
+        "deaths": "0",
+        "incidence rate": "2.4291",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1997",
+        "cases": "406",
+        "deaths": "0",
+        "incidence rate": "5.6285",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1998",
+        "cases": "478",
+        "deaths": "1",
+        "incidence rate": "6.3201",
+        "mortality rate": "0.0132",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "1999",
+        "cases": "318",
+        "deaths": "0",
+        "incidence rate": "4.1692",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2000",
+        "cases": "191",
+        "deaths": "0",
+        "incidence rate": "2.5064",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2001",
+        "cases": "656",
+        "deaths": "0",
+        "incidence rate": "8.2364",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2002",
+        "cases": "509",
+        "deaths": "1",
+        "incidence rate": "5.8413",
+        "mortality rate": "0.0115",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2003",
+        "cases": "251",
+        "deaths": "0",
+        "incidence rate": "2.8535",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2004",
+        "cases": "179",
+        "deaths": "0",
+        "incidence rate": "2.1984",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2005",
+        "cases": "531",
+        "deaths": "0",
+        "incidence rate": "6.4703",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2006",
+        "cases": "764",
+        "deaths": "1",
+        "incidence rate": "9.2271",
+        "mortality rate": "0.0121",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2007",
+        "cases": "27",
+        "deaths": "0",
+        "incidence rate": "0.323",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2008",
+        "cases": "50",
+        "deaths": "0",
+        "incidence rate": "0.5917",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2009",
+        "cases": "4",
+        "deaths": "0",
+        "incidence rate": "0.0468",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2010",
+        "cases": "3",
+        "deaths": "0",
+        "incidence rate": "0.0347",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2011",
+        "cases": "4",
+        "deaths": "0",
+        "incidence rate": "0.0461",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2012",
+        "cases": "3",
+        "deaths": "0",
+        "incidence rate": "0.0342",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2013",
+        "cases": "51",
+        "deaths": "0",
+        "incidence rate": "0.5753",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    },
+    {
+        "year": "2014",
+        "cases": "17",
+        "deaths": "0",
+        "incidence rate": "0.1899",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "海南",
+        "id": "46000000"
+    }
+]

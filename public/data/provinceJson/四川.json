@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "3827",
+        "deaths": "333",
+        "incidence rate": "6.56",
+        "mortality rate": "0.57",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1951",
+        "cases": "120432",
+        "deaths": "6024",
+        "incidence rate": "201.56",
+        "mortality rate": "10.08",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1952",
+        "cases": "109542",
+        "deaths": "4868",
+        "incidence rate": "174.48",
+        "mortality rate": "7.75",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1953",
+        "cases": "132821",
+        "deaths": "2151",
+        "incidence rate": "203.34",
+        "mortality rate": "3.29",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1954",
+        "cases": "364921",
+        "deaths": "6278",
+        "incidence rate": "549.73",
+        "mortality rate": "9.46",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1955",
+        "cases": "516823",
+        "deaths": "7328",
+        "incidence rate": "769.12",
+        "mortality rate": "10.91",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1956",
+        "cases": "471720",
+        "deaths": "6899",
+        "incidence rate": "686.85",
+        "mortality rate": "10.05",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1957",
+        "cases": "494090",
+        "deaths": "6162",
+        "incidence rate": "704.53",
+        "mortality rate": "8.79",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1958",
+        "cases": "233787",
+        "deaths": "6369",
+        "incidence rate": "330.23",
+        "mortality rate": "9",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1959",
+        "cases": "878338",
+        "deaths": "33517",
+        "incidence rate": "1257",
+        "mortality rate": "47.97",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1960",
+        "cases": "44806",
+        "deaths": "725",
+        "incidence rate": "66.3",
+        "mortality rate": "1.07",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1961",
+        "cases": "63679",
+        "deaths": "350",
+        "incidence rate": "97.38",
+        "mortality rate": "0.54",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1962",
+        "cases": "57989",
+        "deaths": "298",
+        "incidence rate": "89.59",
+        "mortality rate": "0.46",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1963",
+        "cases": "536387",
+        "deaths": "3899",
+        "incidence rate": "813.85",
+        "mortality rate": "5.92",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1964",
+        "cases": "411731",
+        "deaths": "4144",
+        "incidence rate": "605.75",
+        "mortality rate": "6.1",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1965",
+        "cases": "921747",
+        "deaths": "5717",
+        "incidence rate": "1313.47",
+        "mortality rate": "8.15",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1966",
+        "cases": "531619",
+        "deaths": "3687",
+        "incidence rate": "733",
+        "mortality rate": "5.08",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1967",
+        "cases": "217703",
+        "deaths": "1567",
+        "incidence rate": "291.02",
+        "mortality rate": "2.09",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1968",
+        "cases": "176498",
+        "deaths": "750",
+        "incidence rate": "228.96",
+        "mortality rate": "0.97",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1969",
+        "cases": "196501",
+        "deaths": "953",
+        "incidence rate": "247.23",
+        "mortality rate": "1.2",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1970",
+        "cases": "68746",
+        "deaths": "516",
+        "incidence rate": "83.83",
+        "mortality rate": "0.63",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1971",
+        "cases": "401076",
+        "deaths": "1767",
+        "incidence rate": "474.27",
+        "mortality rate": "2.09",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1972",
+        "cases": "461028",
+        "deaths": "3134",
+        "incidence rate": "529.89",
+        "mortality rate": "3.6",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1973",
+        "cases": "165517",
+        "deaths": "1252",
+        "incidence rate": "185.11",
+        "mortality rate": "1.4",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1974",
+        "cases": "120326",
+        "deaths": "888",
+        "incidence rate": "131.24",
+        "mortality rate": "0.97",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1975",
+        "cases": "91161",
+        "deaths": "695",
+        "incidence rate": "97.3",
+        "mortality rate": "0.74",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1976",
+        "cases": "145339",
+        "deaths": "1281",
+        "incidence rate": "152.63",
+        "mortality rate": "1.35",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1977",
+        "cases": "213253",
+        "deaths": "1415",
+        "incidence rate": "221.7",
+        "mortality rate": "1.47",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1978",
+        "cases": "261870",
+        "deaths": "1271",
+        "incidence rate": "270.43",
+        "mortality rate": "1.31",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1979",
+        "cases": "104413",
+        "deaths": "444",
+        "incidence rate": "107.19",
+        "mortality rate": "0.46",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1980",
+        "cases": "105307",
+        "deaths": "261",
+        "incidence rate": "107.49",
+        "mortality rate": "0.27",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1981",
+        "cases": "121970",
+        "deaths": "401",
+        "incidence rate": "123.55",
+        "mortality rate": "0.41",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1982",
+        "cases": "53482",
+        "deaths": "150",
+        "incidence rate": "53.63",
+        "mortality rate": "0.15",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1983",
+        "cases": "118662",
+        "deaths": "277",
+        "incidence rate": "118.09",
+        "mortality rate": "0.28",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1984",
+        "cases": "81943",
+        "deaths": "259",
+        "incidence rate": "81.1829",
+        "mortality rate": "0.2566",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1985",
+        "cases": "25114",
+        "deaths": "147",
+        "incidence rate": "24.744",
+        "mortality rate": "0.145",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1986",
+        "cases": "10912",
+        "deaths": "25",
+        "incidence rate": "10.642",
+        "mortality rate": "0.024",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1987",
+        "cases": "10119",
+        "deaths": "5",
+        "incidence rate": "9.74",
+        "mortality rate": "0.005",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1988",
+        "cases": "13878",
+        "deaths": "21",
+        "incidence rate": "13.119",
+        "mortality rate": "0.02",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1989",
+        "cases": "10883",
+        "deaths": "86",
+        "incidence rate": "10.224",
+        "mortality rate": "0.081",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1990",
+        "cases": "5900",
+        "deaths": "5",
+        "incidence rate": "5.482",
+        "mortality rate": "0.005",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1991",
+        "cases": "7452",
+        "deaths": "4",
+        "incidence rate": "6.888",
+        "mortality rate": "0.0037",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1992",
+        "cases": "14050",
+        "deaths": "30",
+        "incidence rate": "12.849",
+        "mortality rate": "0.0274",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1993",
+        "cases": "12496",
+        "deaths": "35",
+        "incidence rate": "11.388",
+        "mortality rate": "0.0319",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1994",
+        "cases": "7347",
+        "deaths": "27",
+        "incidence rate": "6.653",
+        "mortality rate": "0.0244",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1995",
+        "cases": "6007",
+        "deaths": "9",
+        "incidence rate": "5.3793",
+        "mortality rate": "0.0081",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1996",
+        "cases": "9475",
+        "deaths": "18",
+        "incidence rate": "8.4578",
+        "mortality rate": "0.0161",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1997",
+        "cases": "11443",
+        "deaths": "33",
+        "incidence rate": "10.072",
+        "mortality rate": "0.029",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1998",
+        "cases": "5546",
+        "deaths": "5",
+        "incidence rate": "6.4997",
+        "mortality rate": "0.0059",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "1999",
+        "cases": "5203",
+        "deaths": "12",
+        "incidence rate": "6.0807",
+        "mortality rate": "0.014",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2000",
+        "cases": "9420",
+        "deaths": "9",
+        "incidence rate": "11.0168",
+        "mortality rate": "0.0105",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2001",
+        "cases": "10223",
+        "deaths": "18",
+        "incidence rate": "12.2134",
+        "mortality rate": "0.0215",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2002",
+        "cases": "6399",
+        "deaths": "16",
+        "incidence rate": "7.0961",
+        "mortality rate": "0.0177",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2003",
+        "cases": "7640",
+        "deaths": "11",
+        "incidence rate": "9.0046",
+        "mortality rate": "0.013",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2004",
+        "cases": "4009",
+        "deaths": "0",
+        "incidence rate": "4.6007",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2005",
+        "cases": "7010",
+        "deaths": "12",
+        "incidence rate": "8.5611",
+        "mortality rate": "0.0147",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2006",
+        "cases": "8174",
+        "deaths": "3",
+        "incidence rate": "9.9537",
+        "mortality rate": "0.0037",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2007",
+        "cases": "16033",
+        "deaths": "6",
+        "incidence rate": "19.6266",
+        "mortality rate": "0.0073",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2008",
+        "cases": "2957",
+        "deaths": "0",
+        "incidence rate": "3.6385",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2009",
+        "cases": "481",
+        "deaths": "0",
+        "incidence rate": "0.5878",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2010",
+        "cases": "585",
+        "deaths": "0",
+        "incidence rate": "0.7147",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2011",
+        "cases": "1212",
+        "deaths": "3",
+        "incidence rate": "1.5071",
+        "mortality rate": "0.0037",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2012",
+        "cases": "248",
+        "deaths": "0",
+        "incidence rate": "0.3081",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2013",
+        "cases": "262",
+        "deaths": "0",
+        "incidence rate": "0.3244",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    },
+    {
+        "year": "2014",
+        "cases": "838",
+        "deaths": "0",
+        "incidence rate": "1.0337",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "四川",
+        "id": "51000000"
+    }
+]

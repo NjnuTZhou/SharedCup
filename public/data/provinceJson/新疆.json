@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1951",
+        "cases": "10238",
+        "deaths": "514",
+        "incidence rate": "227.88",
+        "mortality rate": "11.44",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1952",
+        "cases": "1153",
+        "deaths": "10",
+        "incidence rate": "25.07",
+        "mortality rate": "0.22",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1953",
+        "cases": "2219",
+        "deaths": "47",
+        "incidence rate": "47.04",
+        "mortality rate": "1",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1954",
+        "cases": "8060",
+        "deaths": "239",
+        "incidence rate": "164.75",
+        "mortality rate": "4.89",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1955",
+        "cases": "13078",
+        "deaths": "644",
+        "incidence rate": "258.49",
+        "mortality rate": "12.73",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1956",
+        "cases": "14867",
+        "deaths": "449",
+        "incidence rate": "284.55",
+        "mortality rate": "8.59",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1957",
+        "cases": "16446",
+        "deaths": "601",
+        "incidence rate": "301.44",
+        "mortality rate": "11.02",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1958",
+        "cases": "15001",
+        "deaths": "685",
+        "incidence rate": "263.1",
+        "mortality rate": "12.01",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1959",
+        "cases": "59762",
+        "deaths": "4383",
+        "incidence rate": "976.69",
+        "mortality rate": "71.19",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1960",
+        "cases": "12031",
+        "deaths": "305",
+        "incidence rate": "180.2",
+        "mortality rate": "4.57",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1961",
+        "cases": "12336",
+        "deaths": "247",
+        "incidence rate": "176.69",
+        "mortality rate": "3.54",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1962",
+        "cases": "11389",
+        "deaths": "75",
+        "incidence rate": "161.66",
+        "mortality rate": "1.07",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1963",
+        "cases": "30799",
+        "deaths": "272",
+        "incidence rate": "436.22",
+        "mortality rate": "3.85",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1964",
+        "cases": "84169",
+        "deaths": "1365",
+        "incidence rate": "1155.14",
+        "mortality rate": "18.73",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1965",
+        "cases": "38780",
+        "deaths": "487",
+        "incidence rate": "505.84",
+        "mortality rate": "6.35",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1966",
+        "cases": "38324",
+        "deaths": "573",
+        "incidence rate": "471.07",
+        "mortality rate": "7.04",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1967",
+        "cases": "19902",
+        "deaths": "181",
+        "incidence rate": "232.8",
+        "mortality rate": "2.12",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1968",
+        "cases": "7457",
+        "deaths": "55",
+        "incidence rate": "83.77",
+        "mortality rate": "0.62",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1969",
+        "cases": "2341",
+        "deaths": "25",
+        "incidence rate": "25.28",
+        "mortality rate": "0.27",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1970",
+        "cases": "2074",
+        "deaths": "24",
+        "incidence rate": "21.6",
+        "mortality rate": "0.25",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1971",
+        "cases": "8637",
+        "deaths": "123",
+        "incidence rate": "86.96",
+        "mortality rate": "1.24",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1972",
+        "cases": "19184",
+        "deaths": "171",
+        "incidence rate": "186.29",
+        "mortality rate": "1.66",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1973",
+        "cases": "24048",
+        "deaths": "712",
+        "incidence rate": "215.53",
+        "mortality rate": "6.66",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1974",
+        "cases": "14509",
+        "deaths": "412",
+        "incidence rate": "131.01",
+        "mortality rate": "3.72",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1975",
+        "cases": "39481",
+        "deaths": "1105",
+        "incidence rate": "346.27",
+        "mortality rate": "9.69",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1976",
+        "cases": "12707",
+        "deaths": "359",
+        "incidence rate": "108.59",
+        "mortality rate": "3.06",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1977",
+        "cases": "34597",
+        "deaths": "964",
+        "incidence rate": "288.94",
+        "mortality rate": "8.05",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1978",
+        "cases": "33344",
+        "deaths": "1065",
+        "incidence rate": "273.15",
+        "mortality rate": "8.72",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1979",
+        "cases": "33375",
+        "deaths": "1304",
+        "incidence rate": "268.24",
+        "mortality rate": "10.48",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1980",
+        "cases": "20652",
+        "deaths": "350",
+        "incidence rate": "162.58",
+        "mortality rate": "2.76",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1981",
+        "cases": "25074",
+        "deaths": "490",
+        "incidence rate": "193.8",
+        "mortality rate": "3.79",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1982",
+        "cases": "29626",
+        "deaths": "810",
+        "incidence rate": "226.91",
+        "mortality rate": "6.2",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1983",
+        "cases": "26629",
+        "deaths": "465",
+        "incidence rate": "203.16",
+        "mortality rate": "3.55",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1984",
+        "cases": "21893",
+        "deaths": "403",
+        "incidence rate": "164.4509",
+        "mortality rate": "3.0272",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1985",
+        "cases": "3912",
+        "deaths": "81",
+        "incidence rate": "28.922",
+        "mortality rate": "0.599",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1986",
+        "cases": "2193",
+        "deaths": "44",
+        "incidence rate": "15.979",
+        "mortality rate": "0.321",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1987",
+        "cases": "1881",
+        "deaths": "15",
+        "incidence rate": "13.484",
+        "mortality rate": "0.108",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1988",
+        "cases": "5162",
+        "deaths": "215",
+        "incidence rate": "36.431",
+        "mortality rate": "1.517",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1989",
+        "cases": "1342",
+        "deaths": "13",
+        "incidence rate": "9.318",
+        "mortality rate": "0.09",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1990",
+        "cases": "1189",
+        "deaths": "7",
+        "incidence rate": "8.101",
+        "mortality rate": "0.048",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1991",
+        "cases": "6752",
+        "deaths": "69",
+        "incidence rate": "43.825",
+        "mortality rate": "0.4479",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1992",
+        "cases": "6183",
+        "deaths": "95",
+        "incidence rate": "39.411",
+        "mortality rate": "0.6055",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1993",
+        "cases": "3711",
+        "deaths": "32",
+        "incidence rate": "23.703",
+        "mortality rate": "0.2044",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1994",
+        "cases": "1883",
+        "deaths": "16",
+        "incidence rate": "11.834",
+        "mortality rate": "0.1006",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1995",
+        "cases": "3163",
+        "deaths": "16",
+        "incidence rate": "19.3574",
+        "mortality rate": "0.0979",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1996",
+        "cases": "3979",
+        "deaths": "17",
+        "incidence rate": "24.0607",
+        "mortality rate": "0.1028",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1997",
+        "cases": "3143",
+        "deaths": "28",
+        "incidence rate": "18.6648",
+        "mortality rate": "0.1663",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1998",
+        "cases": "3452",
+        "deaths": "12",
+        "incidence rate": "19.8873",
+        "mortality rate": "0.0691",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "1999",
+        "cases": "4332",
+        "deaths": "16",
+        "incidence rate": "24.4832",
+        "mortality rate": "0.0904",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2000",
+        "cases": "2172",
+        "deaths": "3",
+        "incidence rate": "12.2877",
+        "mortality rate": "0.017",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2001",
+        "cases": "4792",
+        "deaths": "15",
+        "incidence rate": "24.6032",
+        "mortality rate": "0.077",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2002",
+        "cases": "2900",
+        "deaths": "5",
+        "incidence rate": "13.9102",
+        "mortality rate": "0.024",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2003",
+        "cases": "3157",
+        "deaths": "12",
+        "incidence rate": "14.9763",
+        "mortality rate": "0.0569",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2004",
+        "cases": "6502",
+        "deaths": "3",
+        "incidence rate": "34.9492",
+        "mortality rate": "0.0161",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2005",
+        "cases": "345",
+        "deaths": "0",
+        "incidence rate": "1.7359",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2006",
+        "cases": "299",
+        "deaths": "1",
+        "incidence rate": "1.4876",
+        "mortality rate": "0.005",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2007",
+        "cases": "2646",
+        "deaths": "5",
+        "incidence rate": "12.9073",
+        "mortality rate": "0.0244",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2008",
+        "cases": "19968",
+        "deaths": "30",
+        "incidence rate": "95.3127",
+        "mortality rate": "0.1432",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2009",
+        "cases": "394",
+        "deaths": "0",
+        "incidence rate": "1.8491",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2010",
+        "cases": "308",
+        "deaths": "0",
+        "incidence rate": "1.4268",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2011",
+        "cases": "1895",
+        "deaths": "0",
+        "incidence rate": "8.6864",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2012",
+        "cases": "584",
+        "deaths": "2",
+        "incidence rate": "2.6441",
+        "mortality rate": "0.0091",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2013",
+        "cases": "919",
+        "deaths": "3",
+        "incidence rate": "4.1159",
+        "mortality rate": "0.0134",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    },
+    {
+        "year": "2014",
+        "cases": "1263",
+        "deaths": "4",
+        "incidence rate": "5.5779",
+        "mortality rate": "0.0177",
+        "name": "麻疹",
+        "region": "新疆",
+        "id": "65000000"
+    }
+]

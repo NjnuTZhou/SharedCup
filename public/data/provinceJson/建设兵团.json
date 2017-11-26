@@ -1,0 +1,102 @@
+[
+    {
+        "year": "2005",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2006",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2007",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2008",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2009",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2010",
+        "cases": "20",
+        "deaths": "0",
+        "incidence rate": "0.7773",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2011",
+        "cases": "13",
+        "deaths": "0",
+        "incidence rate": "0.5052",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2012",
+        "cases": "8",
+        "deaths": "0",
+        "incidence rate": "0.3061",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2013",
+        "cases": "18",
+        "deaths": "0",
+        "incidence rate": "0.6796",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    },
+    {
+        "year": "2014",
+        "cases": "103",
+        "deaths": "1",
+        "incidence rate": "3.8128",
+        "mortality rate": "0.037",
+        "name": "麻疹",
+        "region": "建设兵团",
+        "id": "66000000"
+    }
+]

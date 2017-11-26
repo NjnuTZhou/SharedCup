@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "29177",
+        "deaths": "1708",
+        "incidence rate": "95.14",
+        "mortality rate": "5.57",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1951",
+        "cases": "85404",
+        "deaths": "5335",
+        "incidence rate": "271.72",
+        "mortality rate": "16.97",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1952",
+        "cases": "27756",
+        "deaths": "1352",
+        "incidence rate": "85.72",
+        "mortality rate": "4.18",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1953",
+        "cases": "64864",
+        "deaths": "2502",
+        "incidence rate": "181.83",
+        "mortality rate": "7.01",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1954",
+        "cases": "79253",
+        "deaths": "1536",
+        "incidence rate": "215.49",
+        "mortality rate": "4.18",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1955",
+        "cases": "249719",
+        "deaths": "5322",
+        "incidence rate": "657.92",
+        "mortality rate": "14.02",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1956",
+        "cases": "75885",
+        "deaths": "1245",
+        "incidence rate": "188.53",
+        "mortality rate": "3.09",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1957",
+        "cases": "233769",
+        "deaths": "3689",
+        "incidence rate": "585.64",
+        "mortality rate": "9.24",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1958",
+        "cases": "131409",
+        "deaths": "1568",
+        "incidence rate": "304.47",
+        "mortality rate": "3.63",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1959",
+        "cases": "517744",
+        "deaths": "12462",
+        "incidence rate": "1169.04",
+        "mortality rate": "28.14",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1960",
+        "cases": "30662",
+        "deaths": "195",
+        "incidence rate": "71.3",
+        "mortality rate": "0.45",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1961",
+        "cases": "149296",
+        "deaths": "803",
+        "incidence rate": "347.2",
+        "mortality rate": "1.87",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1962",
+        "cases": "162367",
+        "deaths": "1029",
+        "incidence rate": "360.81",
+        "mortality rate": "2.29",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1963",
+        "cases": "363497",
+        "deaths": "2936",
+        "incidence rate": "808.56",
+        "mortality rate": "6.53",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1964",
+        "cases": "327041",
+        "deaths": "2742",
+        "incidence rate": "707.38",
+        "mortality rate": "5.93",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1965",
+        "cases": "328115",
+        "deaths": "1883",
+        "incidence rate": "694.69",
+        "mortality rate": "3.99",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1966",
+        "cases": "218320",
+        "deaths": "1021",
+        "incidence rate": "497.48",
+        "mortality rate": "2.33",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1967",
+        "cases": "82638",
+        "deaths": "292",
+        "incidence rate": "185.15",
+        "mortality rate": "0.65",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1968",
+        "cases": "21547",
+        "deaths": "91",
+        "incidence rate": "47.22",
+        "mortality rate": "0.2",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1969",
+        "cases": "113392",
+        "deaths": "369",
+        "incidence rate": "243.13",
+        "mortality rate": "0.79",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1970",
+        "cases": "347558",
+        "deaths": "1588",
+        "incidence rate": "728.01",
+        "mortality rate": "3.33",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1971",
+        "cases": "43286",
+        "deaths": "178",
+        "incidence rate": "89",
+        "mortality rate": "0.37",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1972",
+        "cases": "95443",
+        "deaths": "418",
+        "incidence rate": "192.14",
+        "mortality rate": "0.84",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1973",
+        "cases": "334710",
+        "deaths": "1510",
+        "incidence rate": "697.27",
+        "mortality rate": "3.15",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1974",
+        "cases": "111651",
+        "deaths": "571",
+        "incidence rate": "229.68",
+        "mortality rate": "1.17",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1975",
+        "cases": "27042",
+        "deaths": "115",
+        "incidence rate": "55.04",
+        "mortality rate": "0.23",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1976",
+        "cases": "48890",
+        "deaths": "129",
+        "incidence rate": "100.11",
+        "mortality rate": "0.26",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1977",
+        "cases": "101821",
+        "deaths": "256",
+        "incidence rate": "205.55",
+        "mortality rate": "0.52",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1978",
+        "cases": "68894",
+        "deaths": "178",
+        "incidence rate": "137.17",
+        "mortality rate": "0.35",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1979",
+        "cases": "13040",
+        "deaths": "42",
+        "incidence rate": "25.64",
+        "mortality rate": "0.08",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1980",
+        "cases": "9551",
+        "deaths": "31",
+        "incidence rate": "18.6",
+        "mortality rate": "0.06",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1981",
+        "cases": "14732",
+        "deaths": "32",
+        "incidence rate": "28.41",
+        "mortality rate": "0.06",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1982",
+        "cases": "13871",
+        "deaths": "14",
+        "incidence rate": "26.14",
+        "mortality rate": "0.03",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1983",
+        "cases": "8233",
+        "deaths": "33",
+        "incidence rate": "15.28",
+        "mortality rate": "0.06",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1984",
+        "cases": "4513",
+        "deaths": "15",
+        "incidence rate": "8.2749",
+        "mortality rate": "0.0275",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1985",
+        "cases": "1964",
+        "deaths": "6",
+        "incidence rate": "3.56",
+        "mortality rate": "0.011",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1986",
+        "cases": "8930",
+        "deaths": "21",
+        "incidence rate": "15.997",
+        "mortality rate": "0.038",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1987",
+        "cases": "2524",
+        "deaths": "2",
+        "incidence rate": "4.462",
+        "mortality rate": "0.004",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1988",
+        "cases": "2534",
+        "deaths": "11",
+        "incidence rate": "4.427",
+        "mortality rate": "0.019",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1989",
+        "cases": "2057",
+        "deaths": "3",
+        "incidence rate": "3.522",
+        "mortality rate": "0.005",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1990",
+        "cases": "1046",
+        "deaths": "1",
+        "incidence rate": "1.764",
+        "mortality rate": "0.002",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1991",
+        "cases": "1910",
+        "deaths": "3",
+        "incidence rate": "3.089",
+        "mortality rate": "0.0049",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1992",
+        "cases": "1647",
+        "deaths": "2",
+        "incidence rate": "2.627",
+        "mortality rate": "0.0032",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1993",
+        "cases": "1973",
+        "deaths": "0",
+        "incidence rate": "3.142",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1994",
+        "cases": "1127",
+        "deaths": "2",
+        "incidence rate": "1.778",
+        "mortality rate": "0.0032",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1995",
+        "cases": "623",
+        "deaths": "0",
+        "incidence rate": "0.97",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1996",
+        "cases": "1223",
+        "deaths": "1",
+        "incidence rate": "1.8967",
+        "mortality rate": "0.0016",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1997",
+        "cases": "1691",
+        "deaths": "1",
+        "incidence rate": "2.5898",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1998",
+        "cases": "375",
+        "deaths": "0",
+        "incidence rate": "0.5689",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "1999",
+        "cases": "467",
+        "deaths": "2",
+        "incidence rate": "0.7061",
+        "mortality rate": "0.003",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2000",
+        "cases": "428",
+        "deaths": "0",
+        "incidence rate": "0.6472",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2001",
+        "cases": "455",
+        "deaths": "1",
+        "incidence rate": "0.6702",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2002",
+        "cases": "645",
+        "deaths": "0",
+        "incidence rate": "0.9172",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2003",
+        "cases": "1433",
+        "deaths": "1",
+        "incidence rate": "2.1201",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2004",
+        "cases": "950",
+        "deaths": "0",
+        "incidence rate": "1.3973",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2005",
+        "cases": "4837",
+        "deaths": "1",
+        "incidence rate": "7.1033",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2006",
+        "cases": "7953",
+        "deaths": "1",
+        "incidence rate": "11.6085",
+        "mortality rate": "0.0015",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2007",
+        "cases": "4973",
+        "deaths": "4",
+        "incidence rate": "7.2093",
+        "mortality rate": "0.0058",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2008",
+        "cases": "2273",
+        "deaths": "3",
+        "incidence rate": "3.2738",
+        "mortality rate": "0.0043",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2009",
+        "cases": "3359",
+        "deaths": "1",
+        "incidence rate": "4.8062",
+        "mortality rate": "0.0014",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2010",
+        "cases": "14457",
+        "deaths": "10",
+        "incidence rate": "20.5519",
+        "mortality rate": "0.0142",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2011",
+        "cases": "79",
+        "deaths": "0",
+        "incidence rate": "0.1099",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2012",
+        "cases": "38",
+        "deaths": "0",
+        "incidence rate": "0.0525",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2013",
+        "cases": "353",
+        "deaths": "0",
+        "incidence rate": "0.4844",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    },
+    {
+        "year": "2014",
+        "cases": "5365",
+        "deaths": "4",
+        "incidence rate": "7.3166",
+        "mortality rate": "0.0055",
+        "name": "麻疹",
+        "region": "河北",
+        "id": "13000000"
+    }
+]

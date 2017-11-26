@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <div>
+            <img id="pic" style="width:64%;height:600px;margin-left:18%" src="image/map1/1950.jpg">
+            
+        </div>
+        <p  style="margin-top:-300px"><input type="button" onclick="changepic(-1)"  style="width:5%; height:80px;margin-left:20%; background-image:url(image/up.png)"/><input type="button" onclick="changepic(1)" style="width:5%; height:80px; margin-left:50%; background-image:url(image/next.png)"/></p>
+    
+    
+</body>
+<script>
+    function changepic(id){
+        var idint=parseInt(id);
+        var path="image/map1/"
+        var picbox=document.getElementById("pic");
+        var currentpic=picbox.src;
+        var picname=currentpic.split("/");
+        var aaa=picname[picname.length-1];
+        var year=parseInt(aaa.split(".")[0]);
+        var newyear;
+        if(year==2014&&idint==1){
+            newyear=1950;
+        }
+        else if(year==1950&&idint==-1){
+            newyear=2014;
+        }
+        else{
+            newyear=year+idint
+        }
+        picbox.src=path+newyear+".jpg"
+    }
+</script>
+</html>

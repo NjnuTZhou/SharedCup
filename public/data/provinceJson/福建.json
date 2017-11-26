@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "0",
+        "deaths": "0",
+        "incidence rate": "0",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1951",
+        "cases": "32526",
+        "deaths": "745",
+        "incidence rate": "263.7",
+        "mortality rate": "6.04",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1952",
+        "cases": "30044",
+        "deaths": "723",
+        "incidence rate": "238.6",
+        "mortality rate": "5.74",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1953",
+        "cases": "59183",
+        "deaths": "673",
+        "incidence rate": "460.74",
+        "mortality rate": "5.24",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1954",
+        "cases": "63034",
+        "deaths": "389",
+        "incidence rate": "470.93",
+        "mortality rate": "2.91",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1955",
+        "cases": "120494",
+        "deaths": "579",
+        "incidence rate": "881.7",
+        "mortality rate": "4.24",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1956",
+        "cases": "83443",
+        "deaths": "662",
+        "incidence rate": "595.84",
+        "mortality rate": "4.73",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1957",
+        "cases": "101976",
+        "deaths": "702",
+        "incidence rate": "702.07",
+        "mortality rate": "4.83",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1958",
+        "cases": "139014",
+        "deaths": "1858",
+        "incidence rate": "930.87",
+        "mortality rate": "12.44",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1959",
+        "cases": "306504",
+        "deaths": "4393",
+        "incidence rate": "1986.35",
+        "mortality rate": "28.47",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1960",
+        "cases": "12451",
+        "deaths": "121",
+        "incidence rate": "79.24",
+        "mortality rate": "0.77",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1961",
+        "cases": "31241",
+        "deaths": "234",
+        "incidence rate": "195.58",
+        "mortality rate": "1.46",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1962",
+        "cases": "204572",
+        "deaths": "1287",
+        "incidence rate": "1247.66",
+        "mortality rate": "7.85",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1963",
+        "cases": "105789",
+        "deaths": "916",
+        "incidence rate": "630.47",
+        "mortality rate": "5.46",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1964",
+        "cases": "153647",
+        "deaths": "1060",
+        "incidence rate": "915.23",
+        "mortality rate": "6.31",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1965",
+        "cases": "239499",
+        "deaths": "1479",
+        "incidence rate": "1392.69",
+        "mortality rate": "8.6",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1966",
+        "cases": "185919",
+        "deaths": "822",
+        "incidence rate": "1041.25",
+        "mortality rate": "4.6",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1967",
+        "cases": "67568",
+        "deaths": "276",
+        "incidence rate": "368.29",
+        "mortality rate": "1.5",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1968",
+        "cases": "9560",
+        "deaths": "35",
+        "incidence rate": "50.64",
+        "mortality rate": "0.19",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1969",
+        "cases": "57281",
+        "deaths": "101",
+        "incidence rate": "294.38",
+        "mortality rate": "0.52",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1970",
+        "cases": "72273",
+        "deaths": "304",
+        "incidence rate": "361.22",
+        "mortality rate": "1.52",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1971",
+        "cases": "82017",
+        "deaths": "408",
+        "incidence rate": "398.29",
+        "mortality rate": "1.98",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1972",
+        "cases": "51808",
+        "deaths": "174",
+        "incidence rate": "244.26",
+        "mortality rate": "0.82",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1973",
+        "cases": "114363",
+        "deaths": "451",
+        "incidence rate": "524.42",
+        "mortality rate": "2.07",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1974",
+        "cases": "77158",
+        "deaths": "348",
+        "incidence rate": "345.37",
+        "mortality rate": "1.56",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1975",
+        "cases": "29738",
+        "deaths": "161",
+        "incidence rate": "130.2",
+        "mortality rate": "0.7",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1976",
+        "cases": "69508",
+        "deaths": "384",
+        "incidence rate": "297.54",
+        "mortality rate": "1.64",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1977",
+        "cases": "157282",
+        "deaths": "837",
+        "incidence rate": "659.03",
+        "mortality rate": "3.51",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1978",
+        "cases": "100609",
+        "deaths": "492",
+        "incidence rate": "413.69",
+        "mortality rate": "2.02",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1979",
+        "cases": "47031",
+        "deaths": "205",
+        "incidence rate": "190.38",
+        "mortality rate": "0.83",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1980",
+        "cases": "19486",
+        "deaths": "45",
+        "incidence rate": "77.86",
+        "mortality rate": "0.18",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1981",
+        "cases": "10296",
+        "deaths": "19",
+        "incidence rate": "40.58",
+        "mortality rate": "0.07",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1982",
+        "cases": "18090",
+        "deaths": "42",
+        "incidence rate": "70.1",
+        "mortality rate": "0.16",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1983",
+        "cases": "16354",
+        "deaths": "80",
+        "incidence rate": "62.37",
+        "mortality rate": "0.31",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1984",
+        "cases": "13009",
+        "deaths": "89",
+        "incidence rate": "48.937",
+        "mortality rate": "0.3347",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1985",
+        "cases": "6503",
+        "deaths": "45",
+        "incidence rate": "24.13",
+        "mortality rate": "0.167",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1986",
+        "cases": "5538",
+        "deaths": "28",
+        "incidence rate": "20.277",
+        "mortality rate": "0.103",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1987",
+        "cases": "6853",
+        "deaths": "21",
+        "incidence rate": "24.696",
+        "mortality rate": "0.076",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1988",
+        "cases": "1459",
+        "deaths": "6",
+        "incidence rate": "5.169",
+        "mortality rate": "0.021",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1989",
+        "cases": "2718",
+        "deaths": "8",
+        "incidence rate": "9.48",
+        "mortality rate": "0.028",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1990",
+        "cases": "6790",
+        "deaths": "28",
+        "incidence rate": "23.336",
+        "mortality rate": "0.096",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1991",
+        "cases": "5644",
+        "deaths": "14",
+        "incidence rate": "18.487",
+        "mortality rate": "0.0459",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1992",
+        "cases": "6980",
+        "deaths": "21",
+        "incidence rate": "22.464",
+        "mortality rate": "0.0676",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1993",
+        "cases": "4996",
+        "deaths": "12",
+        "incidence rate": "16.205",
+        "mortality rate": "0.0389",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1994",
+        "cases": "3184",
+        "deaths": "5",
+        "incidence rate": "10.228",
+        "mortality rate": "0.0161",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1995",
+        "cases": "1345",
+        "deaths": "1",
+        "incidence rate": "4.2633",
+        "mortality rate": "0.0032",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1996",
+        "cases": "2702",
+        "deaths": "2",
+        "incidence rate": "8.4866",
+        "mortality rate": "0.0063",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1997",
+        "cases": "2205",
+        "deaths": "3",
+        "incidence rate": "6.8636",
+        "mortality rate": "0.0093",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1998",
+        "cases": "1008",
+        "deaths": "2",
+        "incidence rate": "3.0407",
+        "mortality rate": "0.006",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "1999",
+        "cases": "696",
+        "deaths": "1",
+        "incidence rate": "2.0985",
+        "mortality rate": "0.003",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2000",
+        "cases": "696",
+        "deaths": "1",
+        "incidence rate": "2.0988",
+        "mortality rate": "0.003",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2001",
+        "cases": "610",
+        "deaths": "1",
+        "incidence rate": "1.7483",
+        "mortality rate": "0.0029",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2002",
+        "cases": "295",
+        "deaths": "0",
+        "incidence rate": "0.8087",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2003",
+        "cases": "894",
+        "deaths": "0",
+        "incidence rate": "2.6641",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2004",
+        "cases": "1633",
+        "deaths": "0",
+        "incidence rate": "4.5417",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2005",
+        "cases": "1869",
+        "deaths": "0",
+        "incidence rate": "5.3188",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2006",
+        "cases": "1644",
+        "deaths": "0",
+        "incidence rate": "4.6506",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2007",
+        "cases": "1952",
+        "deaths": "2",
+        "incidence rate": "5.4862",
+        "mortality rate": "0.0056",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2008",
+        "cases": "1314",
+        "deaths": "0",
+        "incidence rate": "3.6694",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2009",
+        "cases": "101",
+        "deaths": "2",
+        "incidence rate": "0.278",
+        "mortality rate": "0.0055",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2010",
+        "cases": "23",
+        "deaths": "0",
+        "incidence rate": "0.0634",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2011",
+        "cases": "88",
+        "deaths": "0",
+        "incidence rate": "0.2385",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2012",
+        "cases": "17",
+        "deaths": "0",
+        "incidence rate": "0.0457",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2013",
+        "cases": "307",
+        "deaths": "1",
+        "incidence rate": "0.8191",
+        "mortality rate": "0.0027",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    },
+    {
+        "year": "2014",
+        "cases": "224",
+        "deaths": "0",
+        "incidence rate": "0.5935",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "福建",
+        "id": "35000000"
+    }
+]

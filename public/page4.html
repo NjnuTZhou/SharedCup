@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ECharts</title>
+        <!-- 引入 echarts.js -->
+        <script src="javascripts/echarts.js"></script>
+        <script src="javascripts/echarts-gl.min.js"></script>
+        <script src="javascripts/jquery.js"></script>
+        <script src="javascripts/dat.gui.js"></script>
+        <script src="javascripts/layer.js"></script>
+        <script src="readdata.js"></script>
+    </head>
+    <body>
+        <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="main" style="width:100%;height:600px;"></div>
+        <script type="text/javascript">
+            var myChart = echarts.init(document.getElementById('main'));
+            var chinaincidence=getprovincedata('全国','incidence rate');
+            var timedata=getprovincedata('全国','year');
+            var paperdata=getprovincedata('papers','papers');
+            var newpaperdata=new Array();
+            newpaperdata.push(0);
+            for(var i=paperdata.length-1;i>=0;i--){
+                newpaperdata.push(paperdata[i]);
+            }
+            var option = {
+                title: {
+                    text: '1950-2014全国麻疹发病率与论文数量对比'
+                },
+                toolbox: {
+                    show : true,
+                    feature : {
+                        mark : {show: true},
+                        dataView : {show: true, readOnly: false},
+                        magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+                        restore : {show: true},
+                        saveAsImage : {show: true}
+                    }
+                },
+                tooltip: {
+                    trigger: 'axis',
+                    axisPointer: {
+                        type: 'cross'
+                    }
+                },
+                legend: {
+                    data:['发病率','论文数量']
+                },
+                xAxis: [{
+                    data:timedata,
+                    type:'category',
+                    boundaryGap: false,
+                }],
+                yAxis: [{
+                    name:'发病率',
+                    scale:true,
+                },{
+                    name:'论文数量',
+                    scale:true,
+                }],
+                series: [{
+                    name: '发病率',
+                    type: 'line',
+                    data:chinaincidence,
+                    yAxisIndex:0,
+                    itemStyle:{
+                        normal:{
+                            color:'#FF0000'
+                        }
+                    }
+                },{
+                    name: '论文数量',
+                    type: 'line',
+                    data:newpaperdata,
+                    yAxisIndex:1,
+                    itemStyle:{
+                        normal:{
+                            color:'#0000FF'
+                        }
+                    }
+                }]
+            };
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>
+    </body>
+</html>

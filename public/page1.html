@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="javascripts/echarts.js"></script>
+    <script src="http://echarts.baidu.com/asset/map/js/china.js"></script>
+    
+    <script src="javascripts/echarts-gl.min.js"></script>
+    <script src="javascripts/jquery.js"></script>
+    <script src="javascripts/dat.gui.js"></script>
+    <script src="javascripts/layer.js"></script>
+    <script src="readdata.js"></script>
+</head>
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="map" style="width:50%;height:300px"></div>
+    <div id="top" style="width:50%;height:300px;margin-top:-300px;margin-left:50%"></div>
+    <div id="main" style="width:100%;height:400px;"></div>
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var timedata=[];
+        chinaincidence=getprovincedata('全国','incidence rate');
+        chinadeath=getprovincedata('全国','mortality rate');
+        for(var i=1950;i<2015;i++){
+            timedata.push(i);
+        }
+        var myChart = echarts.init(document.getElementById('main'));
+        var myChart1 = echarts.init(document.getElementById('map'));
+        var myChart2=echarts.init(document.getElementById('top'));
+        // 指定图表的配置项和数据
+        var option = {
+            title: {
+                text: '1950-2014年全国麻疹发病及死亡变化情况'
+            },
+            toolbox: {
+                show : true,
+                feature : {
+                    mark : {show: true},
+                    dataView : {show: true, readOnly: false},
+                    magicType : {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+                    restore : {show: true},
+                    saveAsImage : {show: true}
+                }
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'cross'
+                }
+            },
+            legend: {
+                data:['发病率','死亡率']
+            },
+            xAxis: [{
+                //data: ["衬衫","羊毛衫","雪纺衫","裤子","高跟鞋","袜子"]
+                data:timedata,
+                type:'category',
+                boundaryGap: false,
+            }],
+            yAxis: [{
+                name:'发病率',
+                scale:true,
+                max:1500,
+                min:0
+            },{
+                name:'死亡率',
+                scale:true,
+                max:50,
+                min:0
+            }],
+            series: [{
+                name: '发病率',
+                type: 'line',
+                data:chinaincidence,
+                yAxis:0,
+                lineStyle:{
+                    normal:{
+                        color:'#FF0000'
+                    }
+                }
+                
+            },{
+                name: '死亡率',
+                type: 'line',
+                data:chinadeath,
+                yAxisIndex:1,
+                lineStyle:{
+                    normal:{
+                        color:'#0000FF'
+                    }
+                }
+            }]
+        };
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+        myChart1.setOption(setdata(1950));
+        myChart2.setOption(setdata1(1950));
+        myChart.on('click', function (param) {
+            year=param.name;
+            myChart1.setOption(setdata(year));
+            myChart2.setOption(setdata1(year));
+        });
+        function setdata(year){
+            var showdata=getshowdata(year);
+            var option2 = {
+                title:{
+                    text:year+"年全国各省发病率（1/10000）"
+                },
+                series: [{
+                    type: 'map',
+                    map: 'china',
+                    label: {
+                        show: 'true',
+                        textStyle: {
+                            fontSize: 5,
+                            borderWidth: 0
+                        },
+                        distance: 0
+                    },
+                    data:showdata
+                }],
+                dataRange: {
+                    min:showdata[0].value,
+                    max: showdata[1].value,
+                    x: 'left',
+                    y: 'bottom',
+                    text:['高','低'],           // 文本，默认为数值文本
+                    calculable : true,
+                    color:['#FF0000','#F5DEB3']
+                },
+            };
+            return option2;
+        }
+        function setdata1(year){
+            var inciname=new Array();
+            var deathname=new Array();
+            var inci=new Array();
+            var death=new Array();
+            var data1=getmaxincidence(year);
+            var data2=getmaxdeath(year);
+            for(var i=data1.length-11;i<=data1.length-2;i++){
+                inciname.push(data1[i].name);
+                deathname.push(data2[i].name);
+                inci.push(data1[i].value);
+                death.push(-data2[i].value);
+            }
+            var option = {
+                title:{
+                    text:year+"年发病死亡人数前十"
+                },
+                tooltip : {
+                    trigger: 'axis',
+                    axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+                        type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+                    }
+                },
+                legend: {
+                    data:['发病人数', '死亡人数']
+                },
+                toolbox: {
+                    show : true,
+                    feature : {
+                        mark : {show: true},
+                        dataView : {show: true, readOnly: false},
+                        magicType : {show: true, type: ['line', 'bar']},
+                        restore : {show: true},
+                        saveAsImage : {show: true}
+                    }
+                },
+                calculable : true,
+                xAxis : [
+                    {
+                        type : 'value'
+                    }
+                ],
+                yAxis : [
+                    {
+                        type : 'category',
+                        axisTick : {show: false},
+                        data:deathname
+                    },
+                    {
+                        type : 'category',
+                        axisTick : {show: false},
+                        data:inciname
+                    }
+                ],
+                series : [
+                    {
+                        name:'死亡人数',
+                        type:'bar',
+                        itemStyle: {normal: {
+                            label : {show: false},
+                            color:'#0000FF'
+                        }},
+                        data:death,
+                        
+                    },
+                    {
+                        name:'发病人数',
+                        type:'bar',
+                        barWidth : 5,
+                        itemStyle: {normal: {
+                            label : {show: false},
+                            color:'#FF0000'
+                        }},
+                        data:inci
+                    }
+                ]
+            };
+            return option;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,652 @@
+[
+    {
+        "year": "1950",
+        "cases": "3342",
+        "deaths": "233",
+        "incidence rate": "32.8",
+        "mortality rate": "2.29",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1951",
+        "cases": "31738",
+        "deaths": "2173",
+        "incidence rate": "306.75",
+        "mortality rate": "21",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1952",
+        "cases": "15230",
+        "deaths": "631",
+        "incidence rate": "144.75",
+        "mortality rate": "6",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1953",
+        "cases": "93028",
+        "deaths": "3458",
+        "incidence rate": "846.41",
+        "mortality rate": "31.46",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1954",
+        "cases": "11817",
+        "deaths": "183",
+        "incidence rate": "102.83",
+        "mortality rate": "1.59",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1955",
+        "cases": "99648",
+        "deaths": "1503",
+        "incidence rate": "842.04",
+        "mortality rate": "12.7",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1956",
+        "cases": "46145",
+        "deaths": "531",
+        "incidence rate": "380.33",
+        "mortality rate": "4.38",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1957",
+        "cases": "127259",
+        "deaths": "2347",
+        "incidence rate": "1029.36",
+        "mortality rate": "18.98",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1958",
+        "cases": "106121",
+        "deaths": "2839",
+        "incidence rate": "839.24",
+        "mortality rate": "22.45",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1959",
+        "cases": "250711",
+        "deaths": "10370",
+        "incidence rate": "1933.12",
+        "mortality rate": "79.96",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1960",
+        "cases": "53200",
+        "deaths": "698",
+        "incidence rate": "393.53",
+        "mortality rate": "5.16",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1961",
+        "cases": "60505",
+        "deaths": "816",
+        "incidence rate": "431.4",
+        "mortality rate": "5.82",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1962",
+        "cases": "68342",
+        "deaths": "761",
+        "incidence rate": "472.84",
+        "mortality rate": "5.27",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1963",
+        "cases": "76986",
+        "deaths": "704",
+        "incidence rate": "510.94",
+        "mortality rate": "4.67",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1964",
+        "cases": "212604",
+        "deaths": "1622",
+        "incidence rate": "1357.53",
+        "mortality rate": "10.36",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1965",
+        "cases": "82230",
+        "deaths": "422",
+        "incidence rate": "508.49",
+        "mortality rate": "2.61",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1966",
+        "cases": "97627",
+        "deaths": "448",
+        "incidence rate": "588.4",
+        "mortality rate": "2.7",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1967",
+        "cases": "19268",
+        "deaths": "83",
+        "incidence rate": "113.3",
+        "mortality rate": "0.49",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1968",
+        "cases": "2588",
+        "deaths": "19",
+        "incidence rate": "14.84",
+        "mortality rate": "0.11",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1969",
+        "cases": "16967",
+        "deaths": "165",
+        "incidence rate": "94.93",
+        "mortality rate": "0.92",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1970",
+        "cases": "2254",
+        "deaths": "12",
+        "incidence rate": "12.29",
+        "mortality rate": "0.07",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1971",
+        "cases": "18020",
+        "deaths": "97",
+        "incidence rate": "95.46",
+        "mortality rate": "0.51",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1972",
+        "cases": "32714",
+        "deaths": "238",
+        "incidence rate": "168.72",
+        "mortality rate": "1.23",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1973",
+        "cases": "13667",
+        "deaths": "75",
+        "incidence rate": "64.09",
+        "mortality rate": "0.35",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1974",
+        "cases": "16217",
+        "deaths": "78",
+        "incidence rate": "69.93",
+        "mortality rate": "0.34",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1975",
+        "cases": "34092",
+        "deaths": "262",
+        "incidence rate": "144.85",
+        "mortality rate": "1.11",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1976",
+        "cases": "22160",
+        "deaths": "98",
+        "incidence rate": "92.77",
+        "mortality rate": "0.41",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1977",
+        "cases": "5427",
+        "deaths": "14",
+        "incidence rate": "22.41",
+        "mortality rate": "0.06",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1978",
+        "cases": "20681",
+        "deaths": "28",
+        "incidence rate": "84.23",
+        "mortality rate": "0.11",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1979",
+        "cases": "21786",
+        "deaths": "86",
+        "incidence rate": "93.54",
+        "mortality rate": "0.37",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1980",
+        "cases": "14262",
+        "deaths": "68",
+        "incidence rate": "64.54",
+        "mortality rate": "0.31",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1981",
+        "cases": "4397",
+        "deaths": "6",
+        "incidence rate": "19.77",
+        "mortality rate": "0.03",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1982",
+        "cases": "6436",
+        "deaths": "20",
+        "incidence rate": "28.68",
+        "mortality rate": "0.09",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1983",
+        "cases": "2516",
+        "deaths": "6",
+        "incidence rate": "11.12",
+        "mortality rate": "0.03",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1984",
+        "cases": "3014",
+        "deaths": "16",
+        "incidence rate": "13.2367",
+        "mortality rate": "0.0703",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1985",
+        "cases": "533",
+        "deaths": "5",
+        "incidence rate": "2.326",
+        "mortality rate": "0.022",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1986",
+        "cases": "158",
+        "deaths": "0",
+        "incidence rate": "0.685",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1987",
+        "cases": "181",
+        "deaths": "1",
+        "incidence rate": "0.778",
+        "mortality rate": "0.004",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1988",
+        "cases": "34",
+        "deaths": "1",
+        "incidence rate": "0.144",
+        "mortality rate": "0.004",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1989",
+        "cases": "112",
+        "deaths": "0",
+        "incidence rate": "0.471",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1990",
+        "cases": "52",
+        "deaths": "0",
+        "incidence rate": "0.216",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1991",
+        "cases": "51",
+        "deaths": "0",
+        "incidence rate": "0.205",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1992",
+        "cases": "213",
+        "deaths": "0",
+        "incidence rate": "0.844",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1993",
+        "cases": "733",
+        "deaths": "2",
+        "incidence rate": "2.95",
+        "mortality rate": "0.008",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1994",
+        "cases": "98",
+        "deaths": "0",
+        "incidence rate": "0.391",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1995",
+        "cases": "65",
+        "deaths": "0",
+        "incidence rate": "0.2564",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1996",
+        "cases": "112",
+        "deaths": "0",
+        "incidence rate": "0.436",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1997",
+        "cases": "33",
+        "deaths": "0",
+        "incidence rate": "0.1283",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1998",
+        "cases": "16",
+        "deaths": "0",
+        "incidence rate": "0.0603",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "1999",
+        "cases": "31",
+        "deaths": "0",
+        "incidence rate": "0.1165",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2000",
+        "cases": "118",
+        "deaths": "0",
+        "incidence rate": "0.444",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2001",
+        "cases": "474",
+        "deaths": "0",
+        "incidence rate": "1.7285",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2002",
+        "cases": "401",
+        "deaths": "0",
+        "incidence rate": "1.4414",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2003",
+        "cases": "244",
+        "deaths": "0",
+        "incidence rate": "0.921",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2004",
+        "cases": "53",
+        "deaths": "0",
+        "incidence rate": "0.1989",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2005",
+        "cases": "1978",
+        "deaths": "0",
+        "incidence rate": "7.3015",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2006",
+        "cases": "4728",
+        "deaths": "0",
+        "incidence rate": "17.408",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2007",
+        "cases": "390",
+        "deaths": "0",
+        "incidence rate": "1.4322",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2008",
+        "cases": "536",
+        "deaths": "0",
+        "incidence rate": "1.9634",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2009",
+        "cases": "2402",
+        "deaths": "1",
+        "incidence rate": "8.7857",
+        "mortality rate": "0.0037",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2010",
+        "cases": "314",
+        "deaths": "0",
+        "incidence rate": "1.1462",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2011",
+        "cases": "22",
+        "deaths": "0",
+        "incidence rate": "0.0801",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2012",
+        "cases": "21",
+        "deaths": "0",
+        "incidence rate": "0.0764",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2013",
+        "cases": "168",
+        "deaths": "0",
+        "incidence rate": "0.6108",
+        "mortality rate": "0",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    },
+    {
+        "year": "2014",
+        "cases": "3248",
+        "deaths": "1",
+        "incidence rate": "11.8054",
+        "mortality rate": "0.0036",
+        "name": "麻疹",
+        "region": "吉林",
+        "id": "22000000"
+    }
+]
